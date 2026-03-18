@@ -10,7 +10,7 @@ This repository is a static data host — not a software project. There is no co
 
 1. Go to the [`data/`](data/) folder on GitHub.
 2. Click **Add file** → **Upload files**.
-3. Drag and drop your file(s) into the upload area.
+3. Drag and drop your `.csv`, `.json`, or `.txt` file(s) into the upload area.
 4. Write a short commit message (e.g., "Update respondent_demographics Q1 2025").
 5. Select **Commit directly to the `main` branch**.
 6. Click **Commit changes**.
@@ -19,61 +19,72 @@ This repository is a static data host — not a software project. There is no co
 
 | Extension  | When to Use                                                    |
 |------------|----------------------------------------------------------------|
-| `.csv`     | Default for small-to-medium datasets; human-readable in GitHub |
-| `.parquet` | Preferred for programmatic access and files over ~10 MB        |
-| `.json`    | Preserving the parameters used to generate a CSV file          |
+| `.csv`     | Default for datasets; human-readable in GitHub                 |
+| `.json`    | Parameter snapshot that accompanies a CSV (`{base}_params.json`) |
+| `.txt`     | Optional human notes for a dataset (`{base}_notes.txt`)        |
+
 
 ## File Naming Conventions
 
-- Use **lowercase** with **underscores** — no spaces, no capital letters.
+- Use lowercase with underscores — no spaces, no capital letters.
 - Choose descriptive names: `respondent_demographics_2025.csv`, not `data2.csv`.
 - If you need distinct versions to coexist, use date-stamped filenames:
   `survey_results_2025_03.csv`, `survey_results_2025_06.csv`.
 
-### Pairing CSV and JSON Files
+### Dataset Bundles (A–E Companion Files)
 
-Each CSV should have an accompanying `.json` file that records the parameters used to generate it. **Use the same base name** for both so the pairing is obvious:
+Each dataset is identified by a unique base name (`{base}`). The `{base}` portion must be unique within `data/`, because it is what associates all companion files in the bundle.
+
+For every raw dataset export there will be an accompanying parameter snapshot JSON. Optionally, you may also include a notes file. The full bundle looks like this:
+
+| File pattern | Role | How it is created |
+|---|---|---|
+| `{base}.csv` | A) Raw responses export | `responder.run_write("{base}.csv")` |
+| `{base}_ready.csv` | B) Analysis-ready data (numeric + reverse-coded) | Post-processing (`code tbd`) |
+| `{base}_nan_audit.csv` | C) Missing-data audit | Audit step (`code tbd`) |
+| `{base}_notes.txt` | D) Human notes (optional) | Manual |
+| `{base}_params.json` | E) Reproducibility snapshot | `responder.run_write("{base}.csv")` |
+
+When browsing the `data/` directory, companion files sort next to each other alphabetically because they share the same base name.
 
 ```
-respondent_demographics_2025.csv      ← the data
-respondent_demographics_2025.json     ← parameters used to create the CSV
+data/
+├── res_qs_25.csv                ← Exported by `run_write` method
+├── res_qs_25_params.json        ← Preserved by `run_write` method
+├── res_qs_25_ready.csv          ← Analysis-ready data
+├── res_qs_25_nan_audit.csv      ← Missing-data audit
+├── res_qs_25_notes.txt          ← Human notes (optional)
+└── ...
 ```
 
-Always upload both files together. When browsing the `data/` directory, paired files will sort next to each other alphabetically.
+## Revising Committed Files
 
-## Replacing an Existing File
-
-Upload the new version **with the exact same filename**. Git tracks the previous version in its history automatically. There is no need to rename or archive old files.
+Avoid revising a CSV file once it has been committed. If a correction is truly necessary, discuss it in an issue first. Git tracks previous versions in its history automatically, so there is no need to rename or archive old files.
 
 ## File Size Guidelines
 
-| Threshold | What Happens                                    |
-|-----------|-------------------------------------------------|
-| > ~10 MB  | Provide a Parquet version alongside the CSV     |
-| > 20 MB   | Parquet version is **required**; note it as the preferred format |
-| > 50 MB   | GitHub displays a warning on the file           |
-| > 100 MB  | **GitHub blocks the upload** — file must be split or compressed |
-
-Keep individual files under **50 MB** whenever possible.
+- GitHub warns at files over 50 MB and blocks files over 100 MB.
+- For any CSV larger than ~10 MB, prefer Parquet.
+- Keep all individual files under 50 MB whenever possible.
 
 ## Where to Put Files
 
 All data files go in the `data/` directory. Do not create subdirectories unless there is a clear organizational need (discuss in an issue first).
 
-## Updating the Data Manifest
+## Updating the Data Index
 
-After uploading a new dataset, please update [`data/README.md`](data/README.md) to include:
+After uploading a new dataset, please update [`DataIndex.md`](DataIndex.md) to include:
 
-- **Filename**
+- **Base name**
 - **One-line description**
 - **Date last updated**
-- **Format(s) available**
+- **Files in the bundle**
 
-This helps other users discover what data is available without browsing the directory.
+This index update helps other users discover what data is available without browsing the directory.
 
 ## What Not to Do
 
 - **Do not clone, fork, or pull this repo** for the purpose of adding files.
-- **Do not add scripts, notebooks, or code** — those belong in [SurveyResponder](https://github.com/adamrossnelson/SurveyResponder) or [SurveyResponderMemos](https://github.com/adamrossnelson/SurveyResponderMemos).
 - **Do not upload confidential or personally identifiable data.**
+- **Do not revise a committed CSV** — if a correction is necessary, open an issue first.
 - **Do not delete files** — if a file should be removed, open an issue.
