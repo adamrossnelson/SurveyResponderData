@@ -17,11 +17,11 @@ This repository is a static data host — not a software project. There is no co
 
 ## Accepted File Formats
 
-| Extension  | When to Use                                                    |
-|------------|----------------------------------------------------------------|
-| `.csv`     | Default for datasets; human-readable in GitHub                 |
+| Extension  | When to Use                                                      |
+|------------|------------------------------------------------------------------|
+| `.csv`     | Default for datasets; human-readable in GitHub                   |
 | `.json`    | Parameter snapshot that accompanies a CSV (`{base}_params.json`) |
-| `.txt`     | Optional human notes for a dataset (`{base}_notes.txt`)        |
+| `.txt`     | Optional human notes for a dataset (`{base}_notes.txt`)          |
 
 
 ## File Naming Conventions
