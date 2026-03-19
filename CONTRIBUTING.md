@@ -64,7 +64,7 @@ Avoid revising a CSV file once it has been committed. If a correction is truly n
 ## File Size Guidelines
 
 - GitHub warns at files over 50 MB and blocks files over 100 MB.
-- For any CSV larger than ~10 MB, prefer Parquet.
+- For any CSV larger than ~10 MB.
 - Keep all individual files under 50 MB whenever possible.
 
 ## Where to Put Files
