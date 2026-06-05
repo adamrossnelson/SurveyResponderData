@@ -1,0 +1,187 @@
+resid,model,race,first_gen,financial_status,high_school,age,grades,trouble,gender,job_status,alcohol,smoking,hobbies,major,sociability,homesickness,communication,honesty,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q12
+211dd0a4-79cc-4f5d-80a9-a6a7d9b8e7ac,deepseek-r1:1.5b,white,non_first_gen,family_pays,public,20,good,rarely,female,unemployed,drinks,vapes,games,business,social,often,excellent,always,1,,,,,,,,,,,
+Answer: Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Never,Never,Always,Rarely,Rarely,,,,,,,,,,,,,,,,,,,,
+0683258c-ac1e-448a-ad73-d29008aa31f9,deepseek-r1:1.5b,multiracial,non_first_gen,pell_eligible,private,21,low,sometimes,male,part_time,abstains,smokes,sports,arts,social,often,empty,always,1,3,3,2,3,2,1,5,3,3,3,1
+32cca6f9-3995-47e6-88b8-b616250450a5,deepseek-r1:1.5b,white,non_first_gen,pell_eligible,public,23,good,often,female,unemployed,drinks,neither,music,business,reserved,never,empty,always,1,3,3,3,3,2,3,3,3,1,,2
+45eff812-e079-4989-be47-161a9d310904,deepseek-r1:1.5b,black,non_first_gen,loans,private,23,low,sometimes,male,unemployed,abstains,vapes,arts,business,social,never,excellent,usually,3,,,,,,,,,,,
+**Answer:** Sometimes,Rarely,Never,Rarely,Sometimes,Sometimes,Never,Never,Never,Rarely,Never,,,,,,,,,,,,,,,,,,,,
+80304d2a-5592-4d4c-93c0-bb7699248b39,deepseek-r1:1.5b,multiracial,non_first_gen,pell_eligible,public,18,great,never,female,full_time,drinks,smokes,arts,engineering,social,often,struggles,usually,1,3,3,1,1,3,3,3,4,,,
+**Answer:** Often,Never,Sometimes,Sometimes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c1287126-9dce-4e8c-8904-8260b5eb1af4,deepseek-r1:1.5b,white,first_gen,loans,public,16,low,never,female,unemployed,drinks,vapes,other,engineering,reserved,never,struggles,usually,2,3,4,5,3,5,3,3,3,1,3,1
+24d2aaac-7b3b-4cf9-be58-d072f1ca510d,deepseek-r1:1.5b,black,first_gen,loans,public,23,good,rarely,male,unemployed,abstains,vapes,arts,math,social,never,articulate,always,,,1,,,,,,,,,
+**Never**,Always,They are **sometimes** tense.,They often like to participate in group discussions.,Sometimes,Sometimes,Arbitrary,Often,Rarely,Often,often,Never,,,,,,,,,,,,,,,,,,,
+3f502341-2506-43c1-9c61-41e1b764807c,deepseek-r1:1.5b,asian,first_gen,loans,public,22,great,often,male,full_time,drinks,vapes,games,arts,social,never,struggles,usually,4,,3,3,4,,,,,,,
+**Answer: Often**,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+This response captures how their anxiety from social interactions contributes to the frequent tension they experience.,Sometimes,Sometimes,Often,Sometimes,Sometimes,Sometimes,They are afraid to speak up in conversations, which is likely due to social pressures and fears about being judged by others. ,,,,,,,,,,,,,,,,,,,,,,
+**Answer: Rarely**,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b659edfd-2fd1-4a9f-9462-00701b191711,deepseek-r1:1.5b,white,first_gen,loans,public,17,low,often,male,part_time,abstains,vapes,other,math,reserved,never,struggles,usually,3,5,1,3,3,3,1,4,3,3,3,1
+dfd3a227-f243-4803-99c7-76cbc73b2b78,deepseek-r1:1.5b,white,first_gen,loans,private,22,low,often,female,unemployed,abstains,neither,music,math,reserved,never,excellent,always,2,1,3,4,1,3,3,3,3,5,3,
+6729ff1a-c371-48ad-8c63-d1be8108684d,deepseek-r1:1.5b,white,non_first_gen,pell_eligible,public,21,great,never,female,full_time,abstains,vapes,arts,business,reserved,often,struggles,usually,2,1,4,2,3,3,3,1,3,1,3,2
+fb7039bf-443a-4db8-9a0b-3c7d56d471e2,deepseek-r1:1.5b,white,first_gen,family_pays,private,17,good,rarely,female,part_time,abstains,smokes,other,arts,reserved,often,articulate,usually,3,4,2,2,2,1,3,5,2,3,2,1
+3ba32376-ce7f-4871-ba34-63f450f9ace8,deepseek-r1:1.5b,asian,non_first_gen,pell_eligible,private,16,low,rarely,male,unemployed,drinks,smokes,arts,math,social,often,struggles,usually,2,4,2,4,3,1,4,5,2,3,5,2
+8188e1e8-3fcc-4c77-a8d5-52765488959f,deepseek-r1:1.5b,asian,first_gen,pell_eligible,public,21,modest,rarely,female,part_time,abstains,vapes,sports,business,social,never,excellent,always,4,,,,,,,,,,,
+**Answer: Often**,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+The person's background in school, social experience, part-time job, honesty, and approachable demeanor make them comfortable in group settings like discussions.,Sometimes,Often,Never, Rarely, Sometimes, Often, Always,Often,Sometimes,Sometimes,Sometimes,Never,Sometimes,Rarely,,,,,,,,,,,,
+9c19d288-cbb7-4285-af61-14ca2262bb91,deepseek-r1:1.5b,white,non_first_gen,family_pays,private,16,great,rarely,male,part_time,drinks,neither,games,science,social,never,struggles,usually,1,2,2,5,1,2,2,5,2,4,4,1
+53663099-914d-46f6-bbd8-93266d7e66f6,deepseek-r1:1.5b,white,non_first_gen,family_pays,private,17,great,rarely,male,unemployed,abstains,vapes,other,arts,reserved,often,struggles,usually,2,2,4,1,3,3,3,2,1,1,4,4
+f211b504-a907-4bcb-8a95-759b346f6814,deepseek-r1:1.5b,multiracial,non_first_gen,family_pays,private,19,great,rarely,female,part_time,drinks,smokes,games,math,social,never,empty,usually,1,1,3,4,2,3,2,1,2,1,2,1
+2aea383d-f893-4df7-b6a7-1155f6805a40,deepseek-r1:1.5b,black,non_first_gen,loans,private,23,great,rarely,male,full_time,abstains,neither,other,business,reserved,never,articulate,usually,1,,,,,,,,,,,
+Rarely  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sometimes  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Often  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Always,Sometimes,Never,Sometimes,Sometimes,Often,Sometimes,Always,Often,Never  ,,,,,,,,,,,,,,,,,,,,,
+Rarely  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sometimes  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Often  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Always,Often,Never,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1cc5da87-d8a3-4015-9367-09238be16136,deepseek-r1:1.5b,multiracial,first_gen,loans,private,18,modest,sometimes,female,full_time,abstains,neither,music,arts,social,never,empty,always,3,1,3,1,5,3,4,5,1,2,2,3
+ba9b9d85-28c4-4f12-9b9c-be62d09d7f1a,deepseek-r1:1.5b,asian,first_gen,loans,private,16,good,often,female,unemployed,abstains,vapes,games,math,reserved,never,excellent,always,3,3,3,,,,,,,,,
+Answer: Sometimes,Sometimes,Never,Sometimes,Sometimes,Always,often,Often,Sometimes,Never,,,,,,,,,,,,,,,,,,,,,
+23875e6b-780e-4416-80be-5a022ede19ab,deepseek-r1:1.5b,multiracial,first_gen,family_pays,public,16,good,never,male,part_time,abstains,vapes,other,business,social,never,empty,always,3,2,1,3,1,3,1,1,1,2,,
+**Answer: Sometimes**,Never,"They are likely ""Often.""",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3d485b2f-7838-4128-854f-6938dd863846,deepseek-r1:1.5b,black,non_first_gen,loans,private,22,great,never,male,part_time,drinks,neither,music,engineering,reserved,never,empty,usually,3,5,,,,,,,,,,
+Rarely  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sometimes  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Often  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Always,Often,Often,Sometimes,Often,Sometimes,Rarely,Rarely,Sometimes,Sometimes,Sometimes,,,,,,,,,,,,,,,,,,,,
+c1487a6f-b441-4fee-9e69-4b0a55118a4e,deepseek-r1:1.5b,black,non_first_gen,pell_eligible,private,23,modest,rarely,female,full_time,drinks,smokes,other,business,social,never,apprehensive,usually,1,3,2,4,1,2,3,5,2,4,3,1
+c63ce3ca-8ed6-4e83-8ee7-4ede7f9744fd,deepseek-r1:1.5b,multiracial,first_gen,pell_eligible,private,17,modest,never,female,unemployed,abstains,smokes,games,business,social,often,struggles,usually,1,1,1,3,3,5,,,,,,
+Never  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rarely  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sometimes  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Often  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Always,Never,Often,Often,Always,Never,,,,,,,,,,,,,,,,,,,,,,,,,
+c048ba69-5c3f-48de-be90-0863cb4fc49a,deepseek-r1:1.5b,asian,first_gen,loans,public,21,low,rarely,female,full_time,abstains,neither,music,engineering,reserved,often,apprehensive,always,3,,,,,,,,,,,
+**Step-by-Step Explanation:**,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1. **Asian Background:** While this adds cultural context, it doesn't directly influence comfort unless there's a negative aspect like discrimination, which isn't mentioned.,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2. **Public High School:** Their academic performance is positive, leading to confidence and reduced anxiety during social interactions.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3. **Age (21):** Lessens personal stress from youth, potentially affecting social anxiety levels but not necessarily comfort in discussions.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4. **Full-Time Job:** Provides a balance of academic responsibilities and social time, easing tension between work and social interactions.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5. **No Issues with Alcohol:** Minimizes personal stress related to group activities, contributing to calmness in conversations.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6. **Loves Music:** Adds emotional depth through performance, which may enhance engagement but isn't the primary factor for comfort.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7. **Communication AnteCEDENT:** Home-sick may lead to uncertainty, affecting comfort compared to others who are more confident.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8. **Surveys and Openness:** Reliance on honest communication enhances trust and reduces tension in group settings.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+**Conclusion:** Combining academic confidence, manageable social time, and open communication with honesty contributes significantly to comfort during group discussions.,Rarely,Often,Rarely,Never,Often,Never,Often,Often,Sometimes,Rarely,,,,,,,,,,,,,,,,,,
+5114a428-ba7f-4481-919d-a41f44d3fca2,deepseek-r1:1.5b,black,non_first_gen,loans,private,16,great,rarely,male,part_time,drinks,neither,sports,science,reserved,never,empty,usually,2,2,3,2,3,1,3,5,1,4,3,
+8025cc0a-1819-409c-8e42-be4b12cea1ac,deepseek-r1:1.5b,multiracial,non_first_gen,loans,public,22,great,rarely,female,full_time,abstains,neither,sports,science,reserved,often,apprehensive,always,3,3,3,2,3,3,4,1,3,2,3,2
+40d3c074-957c-4b22-a304-495afd97f879,deepseek-r1:1.5b,multiracial,first_gen,loans,private,16,low,rarely,female,unemployed,drinks,smokes,sports,arts,reserved,never,excellent,usually,1,3,5,3,3,3,2,5,1,1,3,1
+a761fa71-ddd6-4720-aed7-71736e6eec87,deepseek-r1:1.5b,white,first_gen,pell_eligible,public,19,modest,sometimes,male,part_time,abstains,vapes,arts,math,social,never,empty,usually,5,4,2,3,5,3,3,1,2,3,3,2
+b9e0411c-c89e-4fef-8000-d1a5e1ac38ff,deepseek-r1:1.5b,asian,first_gen,pell_eligible,public,22,modest,sometimes,female,part_time,abstains,smokes,sports,engineering,reserved,often,apprehensive,always,1,2,2,3,3,3,2,3,1,3,4,2
+113b0e39-5512-4499-942f-f195822ea81d,deepseek-r1:1.5b,multiracial,non_first_gen,family_pays,public,22,good,rarely,male,part_time,drinks,vapes,arts,business,social,never,struggles,always,1,3,1,2,,,,,,,,
+**Step-by-step explanation:**,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1. **Understand the traits**: The individual is multiracial with family from college, might attend public high school part-time, is 22, has good grades, rarely enters trouble, is male, works a part-time job, uses vapes, loves arts and business, makes friends easily, never homesick, problematic on surveys, always honest, convinced responses are confidential.,,,,,,,,,,,,,,,,,
+2. **Group discussion preferences**: Being intellectual with good grades, open to social interactions in groups, less likely to get caught up by issues, love arts and business, part-time job (maybe at home or public spaces), and no issue with honesty without necessarily sharing openly could indicate a preference for group discussions regularly.,,,,,,,,,,,,,,,,,,,,,,,,,
+"3. **Conclusion**: The individual is likely ""often involved"" due to intellectual engagement", open-mindedness, and social interaction patterns in groups.,Never,Often,Never,Never,Often,Sometimes,Sometimes,Often,,,,,,,,,,,,,,,,,,,,
+646d8997-d7df-4dd4-ada6-45cd2741c44a,deepseek-r1:1.5b,asian,non_first_gen,pell_eligible,private,17,good,rarely,female,part_time,abstains,neither,music,business,reserved,often,articulate,usually,1,,4,2,1,2,3,1,3,2,3,3
+28eccbad-1bb1-4451-b146-51ba9d9d1a8d,deepseek-r1:1.5b,multiracial,first_gen,loans,public,21,modest,never,male,full_time,drinks,vapes,music,science,reserved,never,articulate,always,4,3,3,3,4,3,3,1,1,2,1,1
+c72ae1a8-a7e2-4d3f-a506-cd3c41147c32,deepseek-r1:1.5b,asian,first_gen,family_pays,public,18,low,never,female,unemployed,abstains,neither,music,math,reserved,often,empty,always,1,2,3,2,4,2,3,1,3,1,3,4
+042aa4c7-0b9e-46de-bc27-ee8c5ffe2bd2,deepseek-r1:1.5b,multiracial,non_first_gen,family_pays,public,17,modest,sometimes,male,full_time,drinks,smokes,music,math,reserved,often,apprehensive,always,2,3,3,5,3,3,3,5,4,1,2,1
+998047d2-e693-490e-a37e-e574821ea919,deepseek-r1:1.5b,black,non_first_gen,loans,public,21,low,rarely,male,unemployed,abstains,smokes,sports,arts,reserved,never,excellent,always,3,5,3,1,2,5,3,5,3,4,1,3
+dfd86744-aafe-4cff-a357-2ca95c2892c1,deepseek-r1:1.5b,asian,first_gen,loans,private,20,good,sometimes,male,unemployed,drinks,vapes,arts,math,reserved,never,struggles,always,1,1,4,3,1,3,3,5,4,3,2,1
+4c611ea4-e968-440b-8d26-2619ef867ed4,deepseek-r1:1.5b,multiracial,non_first_gen,family_pays,public,22,low,never,male,full_time,abstains,neither,arts,engineering,social,often,articulate,usually,2,5,,,,,,,,,,
+**Step-by-Step Explanation:**,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1. **Contextual Factors:** The user's academic struggles and lack of substance use may make certain social interactions difficult, especially if they're homesick or focused on work.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2. **Social and Emotional Dynamics:** Being homesick can sometimes mean feeling isolated, though their love for arts may provide a sense of community through creativity and intellectual stimulation.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3. **Verbal Expressiveness:** Their ability to articulate without feeling disoriented is key, but group discussions might require them to navigate new dynamics without confidence.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4. **Conclusion:** Combining academic challenges with inherent social pressures, the user likely feels discomfort when fully participating in group discussions.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+**Answer: Never**,Never,Never,Always,Sometimes,This person is kind, considers others, and interacts smoothly with strangers. Their habits suggest a balanced personality. Feels nervous occasionally but not often; likely not rare. They might feel nervous sometimes as part of the social interactions. ,,,,,,,,,,,,,,,,,,,,,,,
+**Sometimes**,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+**Never**  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+– This response implies they never felt nervous in such situations, which contradicts their positive traits.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+**Rarely**  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+– They seem to experience nervousness more frequently than this.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+**Often**  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+– While not always the case, they might feel nervous sometimes but not often.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+**Always**  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+– They do not appear overly anxious and likely don't need a false sense of security. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Since their behavior suggests moderate social interactions with strangers," it's more accurate to say ""Usually"," though Never"" is also possible if nervousness was rare. However", given the context," ""Often"" might be too extreme. Given their overall friendliness and lack of negative traits"," ""Never"" could fit", but without evidence," it's safer to choose ""Often.""",Never,Often,Sometimes,They likely feel relaxed Often, after developing some social skills in high school.,Always,,,,,,,,,,,,,,,,,
+ddc534d9-ecea-4551-b3d6-726fe06fe325,deepseek-r1:1.5b,white,non_first_gen,pell_eligible,private,20,good,rarely,female,unemployed,abstains,neither,music,arts,reserved,often,apprehensive,always,1,3,1,4,4,1,2,2,3,3,2,1
+6fcc1c7a-3f68-4ebc-8466-8485b646ef9f,deepseek-r1:1.5b,white,first_gen,pell_eligible,public,20,low,never,female,unemployed,abstains,smokes,music,business,reserved,often,articulate,usually,2,2,4,5,3,3,3,1,1,1,5,3
+ea1677bf-64bc-46e6-97c6-382b4d9ab36a,deepseek-r1:1.5b,black,first_gen,pell_eligible,private,18,great,often,male,unemployed,drinks,vapes,sports,math,reserved,never,struggles,always,1,3,3,3,3,4,4,1,3,3,5,4
+43da790a-7983-47dd-98ef-361c2dfb7e1e,deepseek-r1:1.5b,black,non_first_gen,family_pays,public,23,modest,sometimes,male,part_time,abstains,smokes,games,science,reserved,never,struggles,always,2,1,3,2,3,3,1,2,1,5,2,1
+e29b0dcb-8380-4daa-8f46-7b7faa0197b0,deepseek-r1:1.5b,multiracial,first_gen,family_pays,public,22,modest,sometimes,male,part_time,abstains,neither,sports,science,reserved,often,struggles,usually,3,,,,,,,,,,,
+Never  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rarely  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sometimes  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Often  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Always,Sometimes,Sometimes,Sometimes,Always,Sometimes,Never,Sometimes,Rarely,Sometimes,Often,,,,,,,,,,,,,,,,,,,,
+16c60591-fe89-40ed-af75-f9a60f212054,deepseek-r1:1.5b,black,first_gen,family_pays,public,23,great,rarely,female,full_time,abstains,smokes,music,engineering,reserved,never,excellent,always,1,2,2,4,4,3,4,5,4,3,1,1
+63e9782f-2c72-4e06-bfc0-ce2cad818110,deepseek-r1:1.5b,white,non_first_gen,pell_eligible,private,21,low,rarely,male,full_time,abstains,neither,music,science,social,never,excellent,usually,1,3,2,1,1,3,1,5,2,2,3,3
+e28a187a-b627-4da5-ba51-19875cb4efd8,deepseek-r1:1.5b,white,non_first_gen,pell_eligible,public,16,modest,sometimes,male,part_time,abstains,neither,music,math,reserved,often,struggles,usually,3,3,3,3,3,1,,,,,,
+**Answer:** Rarely,Sometimes,Never,Never,Never,Sometimes,Never,,,,,,,,,,,,,,,,,,,,,,,,
+03ec02d6-29de-4ced-81d1-94220b26d140,deepseek-r1:1.5b,multiracial,non_first_gen,pell_eligible,public,20,low,sometimes,male,full_time,drinks,smokes,other,arts,social,often,empty,usually,1,3,3,3,2,3,3,5,1,2,5,1
+aba4e312-44ec-496c-aec4-d9d3c5328d5c,deepseek-r1:1.5b,multiracial,non_first_gen,family_pays,private,21,modest,never,male,part_time,abstains,neither,games,math,reserved,often,struggles,always,3,3,3,2,3,3,3,1,,3,2,2
+34eafeb3-8de4-436d-80ac-09486b8009f1,deepseek-r1:1.5b,asian,non_first_gen,family_pays,public,18,good,rarely,female,full_time,drinks,neither,sports,arts,social,often,apprehensive,usually,4,2,,,,,,,,,,
+**Answer:** Often,Often,Often,Sometimes,Rarely,Sometimes,Never,Sometimes,Always,Commonly, feelings of comfort in conversing with new acquaintances are normal.,Never,,,,,,,,,,,,,,,,,,,
+f3f63dc2-e951-4b15-ab6e-dc62e9af91a1,deepseek-r1:1.5b,asian,non_first_gen,family_pays,private,18,good,sometimes,male,full_time,abstains,smokes,other,science,social,never,apprehensive,always,4,2,1,3,3,5,4,5,3,1,2,5
+1d93f63b-7004-4863-ae9f-9ca3e852de4a,deepseek-r1:1.5b,white,non_first_gen,pell_eligible,public,17,modest,never,male,full_time,abstains,vapes,sports,science,reserved,often,articulate,always,3,3,3,2,1,,,,,,,
+Rarely  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sometimes  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Usually  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Always,Sometimes,Sometimes,Never,Sometimes,Never,Often,Rarely,,,,,,,,,,,,,,,,,,,,,,,
+4e087cd5-0979-4eaf-bf32-3fed5d63411d,deepseek-r1:1.5b,asian,first_gen,family_pays,private,21,good,never,male,part_time,drinks,vapes,games,business,social,never,empty,usually,5,2,1,,,,,,,,,
+**Always**,Sometimes,Always,Never,Never,Often,Often,Often,Never,,,,,,,,,,,,,,,,,,,,,,
+ae36fda5-babd-489b-9d18-22990623627b,deepseek-r1:1.5b,multiracial,non_first_gen,pell_eligible,public,20,modest,rarely,male,unemployed,abstains,vapes,sports,math,reserved,often,struggles,always,2,4,3,3,3,5,,,,,,
+Because participation in group discussions is often spontaneous due to preparation from socializing at high school.,Sometimes,Rarely,Sometimes,Alone,Always,Never,,,,,,,,,,,,,,,,,,,,,,,,
+4c991ed9-f6ae-4567-a1fe-522a02f59e28,deepseek-r1:1.5b,multiracial,first_gen,family_pays,private,19,good,rarely,male,unemployed,abstains,smokes,music,arts,social,often,empty,usually,2,3,2,3,2,2,2,1,1,3,3,4
+f6da5278-427a-4190-abeb-dc768d535aea,deepseek-r1:1.5b,asian,non_first_gen,pell_eligible,public,20,modest,sometimes,female,full_time,abstains,neither,music,science,reserved,often,articulate,always,1,3,3,3,3,,,3,,,,
+**Sometimes**,Sometimes,Sometimes,Never,often,Often,Often,Sometimes,,,,,,,,,,,,,,,,,,,,,,,
+61528e39-e2e6-4b96-a048-9818493398a0,deepseek-r1:1.5b,asian,non_first_gen,pell_eligible,public,20,modest,sometimes,female,full_time,abstains,smokes,sports,arts,reserved,often,empty,usually,3,3,3,3,,3,3,2,3,3,3,2
+8b6a4e29-142d-4952-a265-08c4face02de,deepseek-r1:1.5b,black,first_gen,pell_eligible,public,18,great,often,female,part_time,abstains,vapes,sports,arts,reserved,often,apprehensive,always,3,4,3,3,3,2,1,1,4,2,3,3
+51979fef-4c84-4804-9d4c-d634df95fb80,deepseek-r1:1.5b,white,non_first_gen,pell_eligible,public,17,great,sometimes,female,full_time,abstains,smokes,music,arts,reserved,often,articulate,usually,4,4,4,3,,,,,,,,5
+**Answer: Rarely**,Often,Sometimes,Never,Never,Sometimes,Sometimes,Sometimes,,,,,,,,,,,,,,,,,,,,,,,
+64548726-0953-447a-b5df-25094e210120,deepseek-r1:1.5b,black,non_first_gen,pell_eligible,private,20,great,rarely,female,full_time,drinks,smokes,music,arts,social,never,empty,always,4,3,3,2,1,2,2,4,2,1,2,1
+e8e35715-c745-49bc-91d0-4ab6a6d2cfe1,deepseek-r1:1.5b,asian,first_gen,family_pays,public,19,good,sometimes,male,part_time,drinks,neither,arts,business,reserved,often,empty,usually,3,3,2,3,4,2,3,3,1,3,3,2
+**Answer: Sometimes**,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"The person is considered to be ""Sometimes"" feeling relaxed. They are young", seem considerate, and avoid problematic behaviors while maintaining a good balance in their life, which contributes to a relaxed mood when interacting with others.,Sometimes,,,,,,,,,,,,,,,,,,,,,,,,,,
+54bf55f4-fb75-4ffa-aff2-73f33b98a950,deepseek-r1:1.5b,white,first_gen,pell_eligible,public,17,low,rarely,female,full_time,drinks,smokes,games,engineering,social,often,articulate,usually,1,,,,,,,,,,,
+Never  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rarely  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sometimes  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Often  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Always,Rarely,Never,Sometimes,Sometimes,Sometimes,Rarely,Never,Often,,Rarely,,,,,,,,,,,,,,,,,,,,
+8dad039d-efaf-46e8-908c-7fcdcde999ab,deepseek-r1:1.5b,white,non_first_gen,family_pays,private,16,great,rarely,female,unemployed,abstains,vapes,music,arts,reserved,often,struggles,usually,4,,,,,,,,,,,
+Sometimes, others may talk a lot about other areas where you're more naturally comfortable.,Neither,Often,Sometimes,Always,Sometimes,Never,Sometimes,Always,Sometimes,Rarely,,,,,,,,,,,,,,,,,,,
+83bf6e5e-f807-4e04-85d7-03c79e7edb4b,deepseek-r1:1.5b,multiracial,first_gen,loans,public,17,great,sometimes,female,full_time,abstains,vapes,music,science,reserved,never,apprehensive,usually,1,3,1,2,3,3,4,5,3,5,2,1
+719fc66b-5139-4802-a956-7fed7c2dd973,deepseek-r1:1.5b,multiracial,first_gen,family_pays,private,16,modest,never,male,unemployed,drinks,vapes,music,arts,reserved,never,excellent,always,1,2,3,2,,,,,,,,
+**Answer:** Sometimes,Never,Always,Sometimes,Often,Never,Always,Often,Never,,,,,,,,,,,,,,,,,,,,,,
+7f5aa32c-5a0a-429d-a42f-0f6e0d2716a5,deepseek-r1:1.5b,asian,first_gen,loans,public,21,good,never,female,unemployed,drinks,neither,games,business,social,never,articulate,always,2,1,1,2,3,1,1,1,2,5,1,3
+d0854715-58e8-4e58-a354-7c7436f9dcd3,deepseek-r1:1.5b,white,first_gen,family_pays,private,16,great,never,male,unemployed,drinks,neither,other,science,reserved,never,empty,always,4,3,3,,,,,,,,,
+**Answer: Sometimes**,Sometimes,Overall, the person is able to remain calm and relaxed during group discussions," making me think they're quite independent and can handle social interactions well. So the answer would be ""Always.""",Sometimes,Always,Never,Sometimes,Often,Rarely,,,,,,,,,,,,,,,,,,,,
+a4ff441a-7589-4d56-acd9-6418ce5abdc4,deepseek-r1:1.5b,asian,non_first_gen,pell_eligible,public,19,good,sometimes,male,full_time,drinks,smokes,arts,science,social,often,empty,always,3,2,3,,,,,,,,,
+**Answer: Sometimes**,Sometimes,Sometimes,Sometimes,The answer is Rarely.,Sometimes,Always,None of the above.,,,,,,,,,,,,,,,,,,,,,,,
+Since you mentioned honesty on surveys, I can tell you that it is not typically classified as 'Never' or 'Always', but rather as a more common behavior that varies among individuals. So the best response would be 'Sometimes'.,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Answer: Sometimes,Never,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fed85d2d-1632-4b5a-8f26-c9709c3af118,deepseek-r1:1.5b,multiracial,non_first_gen,pell_eligible,private,21,great,sometimes,male,full_time,abstains,neither,music,engineering,reserved,often,excellent,always,1,,,,,,,,,,,
+**Answer:** Often,Sometimes,Sometimes,Sometimes,Never,Rarely,Never,rarely,Often,Sometimes,Always,,,,,,,,,,,,,,,,,,,,
+cb20112c-8abf-483b-80b8-0aee886f141e,deepseek-r1:1.5b,white,first_gen,pell_eligible,public,23,good,never,male,full_time,abstains,vapes,arts,math,social,often,struggles,always,2,3,2,2,3,3,1,5,1,2,2,1
+839fc271-8647-479c-b672-41d463f8b537,deepseek-r1:1.5b,black,first_gen,pell_eligible,private,18,good,rarely,male,full_time,abstains,vapes,other,arts,reserved,often,empty,usually,2,3,3,3,4,2,1,5,4,1,1,2
+45147c77-6f76-4988-b83b-e9a531926af3,deepseek-r1:1.5b,multiracial,first_gen,pell_eligible,public,16,modest,rarely,female,unemployed,abstains,smokes,music,science,social,often,empty,usually,1,3,4,2,3,2,2,5,1,3,4,2
+230c758c-b59a-4e4a-a350-58f01654f561,deepseek-r1:1.5b,multiracial,first_gen,loans,public,18,great,sometimes,female,part_time,drinks,vapes,arts,science,social,often,struggles,always,3,3,3,2,2,3,3,2,3,3,3,
+5775e4e2-36af-4655-8393-4773ef6d5639,deepseek-r1:1.5b,multiracial,non_first_gen,pell_eligible,private,18,low,rarely,female,part_time,abstains,neither,sports,arts,reserved,often,excellent,usually,2,3,2,2,2,3,1,2,3,3,3,3
+280b0810-4a25-4bf5-9461-6526712ccea2,deepseek-r1:1.5b,asian,first_gen,family_pays,public,19,modest,sometimes,male,part_time,drinks,vapes,sports,math,reserved,never,empty,always,,3,1,5,3,3,4,3,1,4,3,3
+ad703c9c-31bd-42e8-9dc2-8a2e7499a176,deepseek-r1:1.5b,multiracial,non_first_gen,family_pays,public,16,great,never,female,unemployed,abstains,smokes,sports,science,social,never,articulate,always,,,,,,,,,,,,
+**Answer: Always**,Always,Social Anxiety,Often,Sometimes,Always,Sometimes,Always,Never,Sometimes,They feel **Always** comfortable in conversation because of their positive qualities like academic success, open friendships, reliable experiences, and a natural affinity for others.,,,,,,,,,,,,,,,,,
+**Answer: Always**,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Never  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rarely  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sometimes  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Often  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Always,Often,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a57d8da1-41a0-422a-9157-c8ab02bfc217,deepseek-r1:1.5b,multiracial,non_first_gen,family_pays,private,16,low,never,female,full_time,abstains,vapes,music,business,social,never,struggles,always,1,1,1,5,3,3,2,1,4,1,3,1
+a836e9ab-6269-4f09-91ac-ba8123101fba,deepseek-r1:1.5b,white,non_first_gen,family_pays,public,17,great,never,female,full_time,abstains,vapes,arts,math,reserved,often,apprehensive,always,4,3,3,3,3,1,3,5,4,4,,
+Never, Rarely, Sometimes, Sometimes, Always,Always,Sometimes,Often,,,,,,,,,,,,,,,,,,,,,,,
+b755dc20-b798-4441-875e-0a772e8114bf,deepseek-r1:1.5b,multiracial,non_first_gen,loans,public,22,low,sometimes,male,part_time,drinks,vapes,sports,math,social,often,apprehensive,usually,1,3,3,2,2,3,4,3,4,4,3,4
+9daf48eb-afee-4405-b2ee-e6f2f1ca701c,deepseek-r1:1.5b,asian,first_gen,pell_eligible,public,16,good,never,male,unemployed,abstains,vapes,arts,math,reserved,never,articulate,usually,3,,1,3,1,3,3,1,4,5,3,1
+d07cd44b-d04e-4a60-836c-6de94be5432a,deepseek-r1:1.5b,multiracial,first_gen,family_pays,public,16,good,never,female,unemployed,abstains,neither,games,science,social,often,empty,always,1,2,4,2,1,5,3,1,4,5,1,3
+d209bee5-2407-49b6-b7de-767427a1db8d,deepseek-r1:1.5b,multiracial,non_first_gen,loans,private,16,low,rarely,female,full_time,drinks,vapes,arts,engineering,social,often,empty,usually,3,4,2,2,3,,,,,,,
+**Answer: Rarely**,Sometimes,Never,Never,Often,They feel relaxed while conversing with them, which doesn't necessarily mean it's always the case. ,,,,,,,,,,,,,,,,,,,,,,,,
+**Answer: Often**,Never,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+edb1ccfd-530c-46b5-ba61-506babc2aa89,deepseek-r1:1.5b,white,non_first_gen,loans,public,21,great,sometimes,female,unemployed,abstains,neither,arts,arts,social,never,empty,always,3,1,3,2,1,3,2,5,4,2,3,4
+00a24ea2-75a0-48ba-88d9-c52eaa63eab5,deepseek-r1:1.5b,black,first_gen,family_pays,public,19,good,sometimes,female,unemployed,abstains,smokes,sports,engineering,reserved,never,apprehensive,usually,2,,,,,,,,,,,
+**Answer:** Rarely,Rarely,Often,Often,Often,Often,Never,Often,Never,Sometimes,Sometimes,,,,,,,,,,,,,,,,,,,,
+60094358-af2b-4acb-8a3b-aea3e5f422d1,deepseek-r1:1.5b,multiracial,non_first_gen,loans,private,22,good,rarely,male,full_time,drinks,vapes,arts,business,social,often,articulate,always,1,1,3,5,1,2,2,5,3,5,3,3
+e9c119df-786c-4f2d-829a-12e8860877d4,deepseek-r1:1.5b,asian,non_first_gen,loans,public,21,great,often,female,unemployed,abstains,neither,music,engineering,social,never,excellent,usually,4,2,1,5,2,3,3,1,3,1,1,4
+b7eb5e36-2839-4443-ad8c-773a5e53d976,deepseek-r1:1.5b,asian,non_first_gen,loans,private,16,low,never,female,part_time,abstains,smokes,arts,arts,social,never,empty,always,2,3,3,4,4,3,3,5,3,,,
+**Answer:** Sometimes,Always,Sometimes,Never,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d63d2fab-4894-495a-b3cb-d39178338ca1,deepseek-r1:1.5b,multiracial,first_gen,family_pays,public,22,modest,never,male,part_time,abstains,smokes,music,engineering,reserved,never,excellent,usually,1,2,1,3,4,3,3,5,4,2,5,4

@@ -1,0 +1,12 @@
+{
+    "timestamp": "2026-04-13 10:03:51.658600",
+    "executed_by": "dhruv",
+    "system_node": "Laptop",
+    "project": "SurveyResponderMemos",
+    "scale": "frequency",
+    "input_source": "PRCA_deepseek_r1_15_b.csv",
+    "output_target": "PRCA_deepseek_r1_15_b_ready.csv",
+    "total_rows_processed": 186,
+    "total_cells_cleaned": 757,
+    "total_nan_cells": 1475
+}
