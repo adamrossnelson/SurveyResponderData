@@ -1,0 +1,21 @@
+dataset,model,created_by,response_scale,num_respondents,num_questions,total_cells,cleansed,cells_cleaned,cells_nan,parse_success_pct,top_nan_reason,cleanse_date
+PRCA_mistral_frequency.csv,mistral,Shivya,frequency,100,12,1200,True,1200,0,100.0,No NaN values,06-25-2026
+PRCA_dolphin.csv,dolphin3:latest,Fall Data,frequency,100,16,1600,True,1600,0,100.0,No NaN values,06-25-2026
+PRCA_dolphin_frequency_100.csv,dolphin3:latest,Dhruv,frequency100,99,16,1584,True,1584,0,100.0,No NaN values,06-25-2026
+PRCA_gemma3n.csv,gemma3n:latest,Fall Data,frequency,100,16,1600,True,1600,0,100.0,No NaN values,06-25-2026
+PRCA_gemma_29_b.csv,gemma2:9b,Marek,agreement100,100,12,1200,True,1200,0,100.0,No NaN values,06-25-2026
+PRCA_gemma_29_b_top_p.csv,gemma2:9b,Marek,agreement100,100,12,1200,True,1200,0,100.0,No NaN values,06-25-2026
+PRCA_gpt_oss_20_b.csv,gpt-oss:20b,Marek,agreement,100,12,1200,True,1200,0,100.0,No NaN values,06-25-2026
+PRCA_gpt_oss_20_b_frequency.csv,gpt-oss:20b,Marek,frequency,100,12,1200,True,1200,0,100.0,No NaN values,06-25-2026
+PRCA_mistral_spring.csv,mistral,Jacob,frequency,100,16,1600,True,1600,0,100.0,No NaN values,06-25-2026
+PRCA_llama31_8b_results.csv,llama3.1:8b,Dhruv,frequency,100,16,1600,True,1600,0,100.0,No NaN values,06-25-2026
+PRCA_llava-llama.csv,llava-llama3:latest,Fall Data,frequency,100,16,1600,True,1600,0,100.0,No NaN values,06-25-2026
+PRCA_llava-llama_frequency.csv,llava-llama3:latest,Vanessa,frequency,100,12,1200,True,1200,0,100.0,No NaN values,06-25-2026
+PRCA_mistral.csv,mistral:latest,Fall Data,frequency,100,16,1600,True,1600,0,100.0,No NaN values,06-25-2026
+PRCA_llama31_8b_results_100_scale.csv,llama3.1:8b,,agreement100,100,12,1200,True,1196,4,99.7,Ambiguous or unstructured response without Likert code (4/4),06-25-2026
+PRCA_tinyllama1_b.csv,tinyllama:1.1b,Prof. AR Nelson,frequency,100,12,1200,True,1145,55,95.4,Narrative response without extractable Likert code (36/55),06-25-2026
+PRCA_qwen3_59b_test_questions.csv,qwen3.5:9b,Prof. AR Nelson,frequency,100,16,1600,True,1511,89,94.4,Left blank / originally empty (89/89),06-25-2026
+PRCA_LLM_AgreementScale.csv,llama3.2:latest,Prof. AR Nelson,agreement,100,12,1200,True,1108,92,92.3,Ambiguous or unstructured response without Likert code (50/92),06-25-2026
+PRCA_LLM_FrequencyScale.csv,llama3.2:latest,Prof. AR Nelson,frequency,100,12,1200,True,972,228,81.0,Ambiguous or unstructured response without Likert code (155/228),06-25-2026
+PRCA_deepseek_r1_15_b.csv,deepseek-r1:1.5b,Vanessa,frequency,186,12,2232,True,757,287,33.9,Left blank / originally empty (225/287),06-25-2026
+PRCA_llama31_8b_frequency_100.csv,llama3.1:8b,Vanessa,frequency100,30,12,360,True,42,78,11.7,Left blank / originally empty (78/78),06-25-2026
