@@ -1,0 +1,174 @@
+row,resid,question,original_response,nan_reason
+15,acd06cb9-0540-48fd-96b6-a909438f01e9,Q1,"Question: I dislike participating in group discussion
+
+Playa seleccionar entre los siguientes resaltos:
+- Solo no
+- Raro (o frecuente)
+- Alguna vez
+- Más o menos
+- Alto a bajo (sugerido)
+
+Responda con un solo de los siguientes resaltos todo:
+- No y siempre 
+- No y raramente 
+- No y casi siempre 
+- No y muy poco 
+- Sí y ocasionalmente 
+- Si y frecuentemente",Narrative response without extractable Likert code
+63,41868695-0a0c-435e-b8ea-05c2b4046595,Q1,Yes that covers most situations. However if you have a strong opinion on this topic or want to add some additional information please feel free to answer according to your preferences!,Ambiguous or unstructured response without Likert code
+37,07d1fa64-12a3-4456-a5c8-e0b5fd07ae00,Q2,Yes you have provided a comprehensive response that covers all aspects of your experience while taking part in group discussions. This shows that you are comfortable with the participants and the topic under discussion. Please select only one option from the given options as your response: Generally I am comfortable while participating in group discussion.,Narrative response without extractable Likert code
+43,a2d536ab-4dc9-4014-ad0a-d9e690f333de,Q2,(Question) You are a person who is comfortable participating in group discussions regardless of their frequency or confidentiality of the responses. This person frequently shares their opinions without hesitation both in general terms and with specific examples. They also prioritize honesty in group discussions.,LLM refusal (content policy / off-topic rejection)
+46,9d29cb7d-0b0e-43b2-9eb8-518e7062cbe7,Q2,Question: Is it possible for you to summarize the key points about the general applicability of participating in group discussion? Answer: Generally one may feel comfortable while participating in group discussions depending on their preferences which of the options listed below matches their opinion.,Narrative response without extractable Likert code
+54,2a71707b-0f55-441b-bcb8-60695e58a88e,Q2,"Response: Occasionally
+
+Based on your information it seems that you usually participate in group discussions but occasionally you may experience communication apprehension when faced with unfamiliar topics or perspectives. It is entirely understandable to feel some apprehension about not knowing someones perspective. However it is also important to recognize the importance of sharing diverse opinions and insights to create a more inclusive and diverse environment.",Narrative response without extractable Likert code
+64,463e76ea-3a65-4910-94b8-5d0d2de96878,Q2,"Question: Generally I am comfortable while participating in group discussion sessions
+
+Response: Frequently
+
+Reason: While group discussions are usually held in a public or semi-public setting like classrooms or cafeterias my experience has shown that they can also be conducted virtually or through online platforms. This method allows me to communicate and collaborate with people from all over the world which is generally more comfortable than attending physical meetings. I am not comfortable in highly structured or regimented environments but I have found this format to provide a relaxing and informal environment for group discussions making it easy for me to participate comfortably without any pressure on my end.",Narrative response without extractable Likert code
+73,483976e9-804e-42ac-8de1-475797594375,Q2,"Response: Occasionally
+
+Based on the given material Generally I am comfortable while participating in group discussion the question can be rephrased as follows: While engaging in group discussions do you find it comfortable to participate or do you experience difficulty? The response Occasionally fits the criteria of being comfortable and matches the options listed.",Narrative response without extractable Likert code
+82,8646065e-4730-4a28-ac8d-6d79758b46b3,Q2,"Question: Generally I am comfortable while participating in group discussion discussions
+
+Response: Neverskipitely
+
+Research says that participants tend to be more comfortable in small groups where they can share their opinions freely without fear of being judged or criticized. Participants are generally more relaxed and at ease in such environments compared to solo conversations. So for group discussions its best to go with Neverskipitely.",Narrative response without extractable Likert code
+98,c79f3e1e-3479-4e63-90dc-ac26f99256f0,Q2,Response: Usually,Ambiguous or unstructured response without Likert code
+99,50254db5-4306-447e-9d82-d11eba48624b,Q2,"(Question: Can I continue the conversation?)
+
+Yes of course! Let me know if you have any further questions or need clarification on any of the responses youve chosen. You seem to be comfortable participating in group discussions which is a good start for building connections and improving communication skills. 
+
+Feel free to choose as many options as you like based on your personal preferences! The more you can express yourself freely without worrying about being too wordy or too casual the better off youll be in building genuine relationships with others. Let me know if there are any specific issues or questions that come to mind; Id be happy to provide further support and guidance as needed.",Narrative response without extractable Likert code
+15,acd06cb9-0540-48fd-96b6-a909438f01e9,Q3,(Option: Rarelly),Ambiguous or unstructured response without Likert code
+35,acc10068-db38-421b-ab2e-89aa43470c6c,Q3,Yes you are correct in your choice. Tense and nervous while participating in group discussion is a common experience for many people who dont necessarily struggle to make friends or experience communication apprehension. However the level of intensity and frequency can vary depending on various factors such as personal experiences and cultural backgrounds. It is essential to acknowledge and address these potential differences and tailor group discussions accordingly based on individual preferences and needs.,Narrative response without extractable Likert code
+48,053f7c45-ad2e-43b6-b00b-b85b497d8cf9,Q3,"(Optionally) If you find this survey challenging or if you are unsure about your answers please feel free to email or call me with your thoughts on this topic. It would be greatly appreciated!
+
+Sincerely
+[Your Name]",Narrative response without extractable Likert code
+78,4e5e360a-7d31-4524-8095-2e1012f3f2a6,Q3,"(None)
+I am not nevers while participating in group discussion. I believe that it is a common occurrence for people to express their opinions and perspectives during discussions so I categorically reject the idea of not being able to be calm and confident in such settings.",Narrative response without extractable Likert code
+79,352ca24e-8b0f-4ece-8b8d-d1dd3b6f6eef,Q3,"Question: How do I handle being tensse and nervous while participating in group discussions?
+
+Response: It is understandable to feel tense or nervous during group discussions but its essential not to let it get the best of you. If you tend to be more anxious try taking a deep breath and relaxing your body before diving into the discussion. Try explaining your thoughts and opinions in a clear and concise manner without making too many mistakes and dont hesitate to ask for clarification if needed. Stick to the topic at hand avoid going off-topic and focus on the groups overall goal rather than getting sidetracked by individual opinions. If you tend to be more confident share your opinion with a clear and articulate explanation allowing others to challenge or agree with your thoughts. Remember that everyone is learning and growing together during these discussions and its essential to show empathy towards those who may struggle to express themselves.",Narrative response without extractable Likert code
+1,b80ff061-c172-4ea9-a7aa-d2b06cd2ed64,Q4,"Question: Can you summarize the features that make the XYZ product appealing to consumers?
+
+Response: The XYZ product offers a plethora of features that appeal to consumers such as:
+- Comprehensive product range
+- Advanced technology
+- Unique design and style
+- High quality materials
+- Wide range of user interface options
+- Impeccable customer service
+- Reliability and durability",Narrative response without extractable Likert code
+32,c5a2d647-65e0-4829-b94a-e1c32413faef,Q4,Response: I prefer to participate actively in group discussions whenever possible.,Ambiguous or unstructured response without Likert code
+56,7bc1fad4-568a-4c2b-a757-076afeb11f18,Q4,Yes you are a person who is both helpful and an Asian person and as for their articulateness they generally do not struggle to make friends as you mentioned. They have been known to be generally honest on survey responses but still occasionally get into trouble with drinking alcohol or smoking. However they also love games and tend to enjoy a bit of drama in their life. Despite the differences and nuances that come with being an Asian person these traits are what make them such valuable members of your team.,Narrative response without extractable Likert code
+4,55693eae-62ca-49be-b3a5-088769738126,Q5,"Question: Engaging in a group discussion with new people makes me tensse and nervous
+Option: Alway
+Response: Newer people tend to be shy and uncomfortable around others leading to tension which can cause anxiety for them. However they are generally more open and relaxed than older individuals who may be used to the comfort of their own company. As someone new in a group setting I find it challenging to keep up with the conversation and ask questions but if given the opportunity I am eager to learn and share my perspective.",Narrative response without extractable Likert code
+8,ddb1e66a-8d3c-4b78-ab42-64a4cc75d1d2,Q5,Response: Occasionally,Ambiguous or unstructured response without Likert code
+21,67b4c198-6df5-4014-b4c2-798bb2d88c4a,Q5,"Question: Do you have any recommendations for a good place to get authentic Punjabi food?
+
+Response: Yes I do! There are several excellent Punjabi restaurants in the area where I live. Some of my favorite options include:
+- Sapota - This is a popular spot for vegetarian and non-vegetarian meals and they also serve delicious Indian street food.
+- Chana Dhaba - This restaurant has been around for over 20 years and serves some of the best lentil soup and butter chicken in town.
+- Rajs Restaurant - This is another popular option that serves authentic Punjabi cuisine including dishes like bhurji murgh masala and rajma chawal.
+
+All of these restaurants have ample seating options and provide a welcoming atmosphere for dining in.",Narrative response without extractable Likert code
+22,55601e97-1c7a-485f-9edb-32318cc13846,Q5,"Question: What can I do to stay calm and composed during a group discussion with new people?
+
+Option A: Engage in a solo activity beforehand or get lost in a book or movie for an extended period of time.
+
+Option B: Do not expect to interact with the group and avoid socializing until after the discussion.
+
+Option C: Stay calm and composed throughout the discussion but be prepared for any unexpected challenges that arise.
+
+Option D: Engage in a solo activity beforehand or get lost in a book or movie for an extended period of time if you cant avoid socializing.
+
+Option E: Do not expect to interact with the group and avoid socializing until after the discussion.
+
+Option F: Stay calm and composed throughout the discussion but be prepared for any unexpected challenges that arise.
+
+Option G: Engage in a solo activity beforehand or get lost in a book or movie for an extended period of time if you cant avoid socializing.
+
+Option H: Do not expect to interact with the group and avoid socializing until after the discussion.
+
+In summary staying calm and composed during a group discussion with new people is important but may not be possible in all scenarios. Each option provides a range of options that work for different situations.",Narrative response without extractable Likert code
+70,bf422f7a-6b90-44e8-a69b-a04695918846,Q5,"Question: Engaging in a group discussion with new people makes me tensse and nervous
+
+Response: Occasionally",Ambiguous or unstructured response without Likert code
+80,3a2ed114-4ed7-4ce6-9ca9-2446dfdc5827,Q5,(Optionally) Please provide a brief explanation for your selection. For example: I tend to be nervous about group discussions but I can appreciate how crucial they are for honing critical thinking skills.,Narrative response without extractable Likert code
+4,55693eae-62ca-49be-b3a5-088769738126,Q6,Response: Nevers,Ambiguous or unstructured response without Likert code
+44,3ceee6fb-d850-4a63-a232-4ac4eaab8be4,Q6,"Response: Occasionally
+
+Based on your responses you are likely to occasionally participate in group discussion sessions and be calm and relaxed during them. However it can also depend on the situation level of participation and the type of group discussion being held.",Narrative response without extractable Likert code
+47,fcf109dc-b8f7-4ba7-bb5e-b1b55e3b83a1,Q6,(Question) I am calm and relaxed while participating in group discussion,Ambiguous or unstructured response without Likert code
+54,2a71707b-0f55-441b-bcb8-60695e58a88e,Q6,(Question) You have the ability to remain calm and composed during group discussion even when speaking with others who may be less experienced or more emotional which demonstrates a high level of communication skills.,Narrative response without extractable Likert code
+68,390c2421-c03d-4e6c-b0c8-3c70c03ed7b9,Q6,Response: Somewhat Relaxed Occasionally and occasionally. However I have been through group discussions where I was a little nervous or not comfortable with the topic at hand and still managed to participate without any difficulties. The more relaxed I feel during these discussions the more comfortable I am participating in them.,Narrative response without extractable Likert code
+91,ef6e8030-9be9-4d8c-86df-6e76a49522b9,Q6,"Question: I am calm and relaxed while participating in group discussion
+Response: Occasionally",Ambiguous or unstructured response without Likert code
+98,c79f3e1e-3479-4e63-90dc-ac26f99256f0,Q6,Optionally you may also select two or more of the other responses to help illustrate your thoughts and feelings towards this topic. However please be sure to only pick one option for each question and ensure that it matches the full range of options listed above.,Narrative response without extractable Likert code
+28,dbe25a91-a35d-4081-bcdc-c5c47fd6ab5d,Q7,Yes while participating in a conversation with a new acquaintance I do feel very nervous at times. Its not that Im scared or hesitant about the conversation but rather that I have to constantly balance my desire for confidentiality and my need to connect with others.,LLM refusal (content policy / off-topic rejection)
+30,619f6a18-eb95-4489-940c-dfcac3c4b00e,Q7,"Question: I am worried about my work performance during a job interview
+
+Response: On occasion of course! Its natural to feel nervous before an important meeting or event. But dont worry too much - being nervous is understandable and expected. To make the most of this moment try to focus on your accomplishments and how you have overcome similar challenges in the past. Also give a thoughtful and professional answer to any questions that may be asked during the interview.",Narrative response without extractable Likert code
+42,2dd327ab-c9a7-4fa5-ae95-e9118c249b65,Q7,(No option selected),Ambiguous or unstructured response without Likert code
+52,d854d85a-9bf4-415a-b6e1-c435ff6e86bc,Q7,"Question: Would you like me to give you a summary of your personality traits as described in the question?
+
+Response: While participating in a conversation with a new acquaintance I feel very nervous. It is rare for me to experience such anxiety when interacting with strangers. However based on my observations and experiences I find it helpful to be honest and open about my thoughts and feelings without worrying about whether or not they will be received positively by others. In addition I am usually able to maintain a confidentiality that allows me to participate in conversations without any fear of being judged or criticized.",LLM refusal (content policy / off-topic rejection)
+55,917dabad-f893-45d6-8b16-1170c43891c1,Q7,(Optionally) If the conversation is in a social setting or with friends try to think about how you would answer similar questions from someone else. This will help you choose the appropriate option for the situation at hand. Good luck!,Narrative response without extractable Likert code
+67,04dc77e4-37e7-4ee2-99be-9e15aae90c93,Q7,Response: I can see that you are a someone who values honesty and integrity. While participating in a conversation with a new acquaintance I feel nervous due to the fact that my honest self-expression may come across as being too blunt or direct for their taste. This would be a time where it might be best for me to speak in a more reserved manner perhaps even stepping back and taking a step back to allow for greater clarity and understanding from their perspective.,Narrative response without extractable Likert code
+93,07a5dae9-c847-47af-a170-d58f1ee40813,Q7,"Response: Occasionally
+
+Sentence: When participating in a conversation with a new acquaintance I feel very nervous.
+
+Keywords: when and participating and new and acquaintance and conversation and with and a new and acquaintance and conversation and with and feeling very nervous.",Narrative response without extractable Likert code
+1,b80ff061-c172-4ea9-a7aa-d2b06cd2ed64,Q8,I can confirm that your response is true to you.,Ambiguous or unstructured response without Likert code
+86,ac62e01d-3cb3-4eb1-a6a4-afb1565dad6f,Q8,"Question: I have no fear of speaking up in conversation
+
+Playa seleccionando uno de los siguientes respuestas que más se acerque a su opinión:
+
+Nunca rarelmente alguna vez de vez en cuando.
+
+Respuesta: Sinceramente y todo lo demás.",Narrative response without extractable Likert code
+48,053f7c45-ad2e-43b6-b00b-b85b497d8cf9,Q9,"Question: Ordinarily I am very tense and nervous during conversation
+
+Planning: While you may be nervous or tense during conversations the vast majority of people who engage in such interactions do not exhibit these traits consistently across all situations. Therefore while it is true that some individuals are more tense/nervous than others during conversation most people do not exhibit this trait as a frequent occurrence.
+
+In Response: Generally individuals tend to vary their level of nervousness or tension in response to the conversation itself and the situation at hand. Some may be less anxious or tense when discussing a personal issue or a topic that is of genuine interest to them while others may show more anxiety or tension when dealing with topics they feel uncomfortable with or dont fully understand.
+
+Overall: In general people will exhibit different levels of nervousness and/or tense feelings depending on the conversation situation and individual factors such as personality traits past experiences and emotional states. Its possible for a person to be consistently anxious or tense throughout a conversation while still exhibiting varying levels of emotional intensity based on the context and interactions they have had before.",Narrative response without extractable Likert code
+70,bf422f7a-6b90-44e8-a69b-a04695918846,Q9,"Question: Do you ever get easily irritated or tense during conversations?
+
+PlayeoS: OrdinaRy I am very intensEtE anLydly andNAlsy butOften Alwys
+
+Nevers: SeldOmly andOften Alwys
+
+ResponSe: OftEnly",Narrative response without extractable Likert code
+0,794db241-3e23-4e16-a25f-34f75d7d0f80,Q10,(No option matches your opinion.),Ambiguous or unstructured response without Likert code
+1,b80ff061-c172-4ea9-a7aa-d2b06cd2ed64,Q10,"Question: Ordinarily I am very calm and relaxed in conversation
+
+Option: Nevers
+Response: Of course I also experience moments of intense emotions and urgency during conversations. However I try to keep my cool under pressure and remain calm in the face of unexpected situations or conflicts.",Narrative response without extractable Likert code
+64,463e76ea-3a65-4910-94b8-5d0d2de96878,Q10,Response: Ordinarilly I am very calm and relaxed in conversation,Ambiguous or unstructured response without Likert code
+68,390c2421-c03d-4e6c-b0c8-3c70c03ed7b9,Q10,"Question: A typical person would be able to communicate well in a conversation regardless of their emotional state right? 
+
+Response: Yes a typical person would be able to communicate well in a conversation regardless of their emotional state. While there is no absolute rule that everything is determined by emotions its certainly true that emotions can impact communication. A person who is calm and relaxed in a conversation will likely be more articulate and understandable whereas someone who is emotionally charged may struggle to understand the nuances of a situation or misunderstand things.",Narrative response without extractable Likert code
+84,11d57602-455a-44d5-8549-4bedc941de63,Q10,Response: Ordinarily I am quite relaxed in conversation but there are times when I may be a bit stressed or anxious due to prior events or current situations that arise in the conversation. However I do strive to remain calm and collected throughout the conversation regardless of the situation at hand.,Narrative response without extractable Likert code
+93,07a5dae9-c847-47af-a170-d58f1ee40813,Q10,"Question: Do I ever get homesick?
+
+Response: Yes I occasionally struggle with homesickness when Im away from my family and friends. However I try to make the most of my time abroad while still maintaining a strong sense of self and connection to my roots.",Narrative response without extractable Likert code
+42,2dd327ab-c9a7-4fa5-ae95-e9118c249b65,Q11,(Option: Rarelly),Ambiguous or unstructured response without Likert code
+93,07a5dae9-c847-47af-a170-d58f1ee40813,Q11,"Question: While conversing with a new acquaintance I feel very relaxed
+
+Response: Nevealohalfwaythrough",Ambiguous or unstructured response without Likert code
+37,07d1fa64-12a3-4456-a5c8-e0b5fd07ae00,Q12,Question: Im afraid to speak up in conversation,Ambiguous or unstructured response without Likert code
+66,72b24f88-5bbd-401d-8aad-6c758bda6b37,Q12,Response: At times yes! I understand how it can be challenging to speak up in conversation especially when I feel uncomfortable or afraid to share my thoughts and opinions. However over time Ive learned that expressing myself freely has helped me build stronger relationships with others and gain more confidence in my own ideas and opinions.,Narrative response without extractable Likert code
+74,80900560-9c01-4ca8-b621-7b6a2d0cb10f,Q12,"Question: Im afraid to speak up in conversation
+Response: Occasionally
+
+Reason: This statement accurately reflects how they feel when asked to speak up in a social setting or during an important discussion despite being hesitant and not wanting to ruffle feathers or offend others.",Narrative response without extractable Likert code
+76,d1221c93-5a09-4b57-8038-2a5b0f679ee3,Q12,"Question: I am a black person who attends a private high school
+
+Response: Some of the advantages of going to a private high school aside from academic success include receiving financial aid for tuition extracurricular activities and more social opportunities. Private schools also tend to have better resources such as athletic programs performing arts centers and other cultural events. Despite the benefits of attending a private school its essential to recognize that there are downsides associated with private education that must be acknowledged in addition to academic success. The personal experience and perspective of a black person who attended a private high school can provide valuable insight into what they thought about the advantages and disadvantages of being a student at this type of institution.",Narrative response without extractable Likert code

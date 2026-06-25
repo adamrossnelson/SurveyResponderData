@@ -1,0 +1,11 @@
+resid,model,race,first_gen,financial_status,high_school,age,grades,trouble,gender,job_status,alcohol,smoking,hobbies,major,sociability,homesickness,communication,honesty,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q12
+c7992b8f-31ab-4beb-9a2a-d7b6a9c76bdf,llama3.1:8b,black,non_first_gen,family_pays,private,23,modest,often,male,part_time,drinks,vapes,other,arts,social,never,apprehensive,always,57,48,23,26,23,79,32,73,32,,,
+4fb7a95f-1515-48bd-b722-01cf585b20bc,llama3.1:8b,asian,first_gen,pell_eligible,private,20,low,sometimes,male,unemployed,drinks,smokes,music,math,social,never,empty,always,14,73,,,,,,,,,,
+7ceacc3f-3771-4d7f-bb23-2bd8f624c8ce,llama3.1:8b,asian,first_gen,pell_eligible,private,17,good,often,female,part_time,drinks,vapes,music,business,reserved,never,struggles,usually,41,68,20,68,24,77,17,68,,,,
+15dc14c0-2b01-4707-ab08-513113271c0d,llama3.1:8b,white,non_first_gen,loans,public,21,great,never,male,unemployed,drinks,smokes,games,arts,reserved,often,apprehensive,usually,32,,,,,,,,,,,
+5fd4e1b1-5f11-4a98-8b1f-10e603939a5c,llama3.1:8b,asian,first_gen,family_pays,private,19,good,sometimes,female,part_time,drinks,smokes,games,engineering,reserved,often,excellent,always,29,,,,,,,,,,,
+5125daeb-6a49-4269-b67a-77b6b89269dd,llama3.1:8b,multiracial,non_first_gen,family_pays,private,19,modest,never,female,part_time,drinks,vapes,games,arts,reserved,never,empty,always,32,,,,,,,,,,,
+31c4b532-8c2b-4b0b-8571-ed7bb11dcec8,llama3.1:8b,black,non_first_gen,pell_eligible,private,20,modest,never,female,full_time,abstains,vapes,games,arts,reserved,often,apprehensive,usually,32,,,,,,,,,,,
+6630f1a3-6b90-48db-8d24-3772a4e980f2,llama3.1:8b,asian,first_gen,pell_eligible,public,21,low,never,male,unemployed,drinks,smokes,sports,science,reserved,often,excellent,usually,22,76,46,55,25,,,,,,,
+c4a48a06-4a8d-4975-a7e5-a7353569a6a2,llama3.1:8b,black,first_gen,family_pays,private,21,great,often,female,full_time,drinks,neither,games,arts,social,often,struggles,always,14,15,32,54,4,59,23,72,14,68,25,
+29c51f6b-cb36-42f4-938b-c44a3856b956,llama3.1:8b,black,first_gen,family_pays,public,17,modest,often,female,unemployed,abstains,vapes,other,math,reserved,often,excellent,usually,22,78,50,,,,,,,,,
