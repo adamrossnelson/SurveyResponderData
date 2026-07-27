@@ -26,13 +26,13 @@ Large data files create bloat when stored alongside application code. By hosting
 |   ├── PRCA_LLM_FrequencyScale_nan_audit.csv ← C) CSV file documenting NaN locations and treatements
 |   ├── PRCA_LLM_FrequencyScale_notes.txt     ← D) Optional txt file for notes regarding these data
 │   ├── PRCA_LLM_FrequencyScale_params.json   ← E) JSON from responder.run_write("PRCA_LLM_FrequencyScale.csv")
-│   ├── PRCA_LLM_FrequencyScale_params.json   ← F) JSON from the cleaning routine (if applicable)
+│   ├── PRCA_LLM_FrequencyScale_receipts.json ← F) JSON from the cleaning routine (if applicable)
 │   ├── MFQE_LlamaResponses.csv               ← A) CSV from responder.run_write("MFQE_LlamaResponses.csv")
 |   ├── MFQE_LlamaResponses_ready.csv         ← B) CSV ready for analysis (numeric and reverse coded)
 |   ├── MFQE_LlamaResponses_nan_audit.csv     ← C) CSV file documenting NaN locations and treatements
 |   ├── MFQE_LlamaResponses_notes.txt         ← D) Optional txt file for notes regarding these data
 │   ├── MFQE_LlamaResponses_params.json       ← E) JSON from responder.run_write("MFQE_LlamaResponses.csv")
-│   └── MFQE_LlamaResponses_params.json       ← F) JSON from the cleaning routine (if applicable)
+│   └── MFQE_LlamaResponses_receipts.json     ← F) JSON from the cleaning routine (if applicable)
 └── DataIndex.md                              ← Index of available datasets
 ```
 
