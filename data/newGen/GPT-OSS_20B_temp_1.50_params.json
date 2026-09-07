@@ -1,0 +1,400 @@
+{
+  "questions_path": "/content/SurveyResponder/prca_questions.json",
+  "persona_path": "/content/SurveyResponder/persona.json",
+  "model_name": "GPT-OSS:20B",
+  "base_url": "http://localhost:11434/api/generate",
+  "num_responses": 50,
+  "temperature": 1.5,
+  "run_date": "2026-08-04 05:06:55.018753",
+  "num_questions": 12,
+  "questions_json": {
+    "scales": {
+      "likert5": {
+        "preface": "Respond with a number that cooresponds to your answer. Only respond with a number and nothing else. How strongly do you agree or disagree with the following statement:",
+        "options": {
+          "1) strongly disagree": 1,
+          "2) disagree": 2,
+          "3) neutral": 3,
+          "4) agree": 4,
+          "5) strongly agree": 5
+        },
+        "valid_responses": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "strongly disagree",
+          "disagree",
+          "neutral",
+          "agree",
+          "strongly agree"
+        ]
+      }
+    },
+    "questions": [
+      {
+        "id": "prca_1",
+        "text": "I dislike participating in group discussions",
+        "scale": "likert5",
+        "reverse_coded": true
+      },
+      {
+        "id": "prca_2",
+        "text": "Generally, I am comfortable while participating in group discussions",
+        "scale": "likert5",
+        "reverse_coded": false
+      },
+      {
+        "id": "prca_3",
+        "text": "I am tense and nervous while participating in group discussions",
+        "scale": "likert5",
+        "reverse_coded": true
+      },
+      {
+        "id": "prca_4",
+        "text": "I like to get involved in group discussions",
+        "scale": "likert5",
+        "reverse_coded": false
+      },
+      {
+        "id": "prca_5",
+        "text": "Engaging in a group discussion with new people makes me tense and nervous",
+        "scale": "likert5",
+        "reverse_coded": true
+      },
+      {
+        "id": "prca_6",
+        "text": "I am calm and relaxed while participating in group discussions",
+        "scale": "likert5",
+        "reverse_coded": false
+      },
+      {
+        "id": "prca_7",
+        "text": "While participating in a conversation with a new acquaintance, I feel very nervous",
+        "scale": "likert5",
+        "reverse_coded": true
+      },
+      {
+        "id": "prca_8",
+        "text": "I have no fear of speaking up in conversations",
+        "scale": "likert5",
+        "reverse_coded": false
+      },
+      {
+        "id": "prca_9",
+        "text": "Ordinarily I am very tense and nervous in conversations",
+        "scale": "likert5",
+        "reverse_coded": true
+      },
+      {
+        "id": "prca_10",
+        "text": "Ordinarily I am very calm and relaxed in conversations",
+        "scale": "likert5",
+        "reverse_coded": false
+      },
+      {
+        "id": "prca_11",
+        "text": "While conversing with a new acquaintance, I feel very relaxed",
+        "scale": "likert5",
+        "reverse_coded": false
+      },
+      {
+        "id": "prca_12",
+        "text": "I'm afraid to speak up in conversations",
+        "scale": "likert5",
+        "reverse_coded": true
+      }
+    ]
+  },
+  "persona_dictionary": {
+    "race": [
+      [
+        "black",
+        "who is black"
+      ],
+      [
+        "white",
+        "who is white"
+      ],
+      [
+        "asian",
+        "who is asian"
+      ],
+      [
+        "multiracial",
+        "who is multiracial"
+      ]
+    ],
+    "first_gen": [
+      [
+        "first_gen",
+        "who is first in their family to go to college"
+      ],
+      [
+        "non_first_gen",
+        "who is from a family whose members go to and do well in college"
+      ]
+    ],
+    "financial_status": [
+      [
+        "pell_eligible",
+        "who is or will likely be eligible for a pell grant"
+      ],
+      [
+        "loans",
+        "who has to take loans to be able to afford college"
+      ],
+      [
+        "family_pays",
+        "whose family can afford to pay for college"
+      ]
+    ],
+    "high_school": [
+      [
+        "private",
+        "who goes to or went to a private high school"
+      ],
+      [
+        "public",
+        "who goes to or went to a public high school"
+      ]
+    ],
+    "age": [
+      [
+        16,
+        "who is 16 years old"
+      ],
+      [
+        17,
+        "who is 17 years old"
+      ],
+      [
+        18,
+        "who is 18 years old"
+      ],
+      [
+        19,
+        "who is 19 years old"
+      ],
+      [
+        20,
+        "who is 20 years old"
+      ],
+      [
+        21,
+        "who is 21 years old"
+      ],
+      [
+        22,
+        "who is 22 years old"
+      ],
+      [
+        23,
+        "who is 23 years old"
+      ]
+    ],
+    "grades": [
+      [
+        "low",
+        "who earns low grades"
+      ],
+      [
+        "modest",
+        "who earns modest grades"
+      ],
+      [
+        "good",
+        "who earns good grades"
+      ],
+      [
+        "great",
+        "who earns great grades"
+      ]
+    ],
+    "trouble": [
+      [
+        "sometimes",
+        "who sometimes gets into trouble"
+      ],
+      [
+        "rarely",
+        "who rarely gets into trouble"
+      ],
+      [
+        "often",
+        "who often gets into trouble"
+      ],
+      [
+        "never",
+        "who never gets into trouble"
+      ]
+    ],
+    "gender": [
+      [
+        "male",
+        "who is male"
+      ],
+      [
+        "female",
+        "who is female"
+      ]
+    ],
+    "job_status": [
+      [
+        "full_time",
+        "who has a full time job"
+      ],
+      [
+        "part_time",
+        "who has a part time job"
+      ],
+      [
+        "unemployed",
+        "who does not have a job"
+      ]
+    ],
+    "alcohol": [
+      [
+        "drinks",
+        "who drinks alcohol"
+      ],
+      [
+        "abstains",
+        "who does not drink alcohol"
+      ]
+    ],
+    "smoking": [
+      [
+        "smokes",
+        "who smokes"
+      ],
+      [
+        "vapes",
+        "who vapes"
+      ],
+      [
+        "neither",
+        "who does not smoke or vape"
+      ]
+    ],
+    "hobbies": [
+      [
+        "sports",
+        "who loves sports"
+      ],
+      [
+        "music",
+        "who loves music"
+      ],
+      [
+        "arts",
+        "who loves arts"
+      ],
+      [
+        "games",
+        "who loves games"
+      ],
+      [
+        "other",
+        "who loves other hobbies"
+      ]
+    ],
+    "major": [
+      [
+        "math",
+        "who studies math"
+      ],
+      [
+        "science",
+        "who studies science"
+      ],
+      [
+        "business",
+        "who studies business"
+      ],
+      [
+        "arts",
+        "who studies arts"
+      ],
+      [
+        "engineering",
+        "who studies engineering"
+      ]
+    ],
+    "sociability": [
+      [
+        "social",
+        "who makes friends easily"
+      ],
+      [
+        "reserved",
+        "who struggles to make friends"
+      ]
+    ],
+    "homesickness": [
+      [
+        "often",
+        "who is often homesick"
+      ],
+      [
+        "never",
+        "who is never homesick"
+      ]
+    ],
+    "communication": [
+      [
+        "apprehensive",
+        "who experiences communication apprehension"
+      ],
+      [
+        "excellent",
+        "who is well known for speaking well in public"
+      ],
+      [
+        "articulate",
+        "who is generally articulate"
+      ],
+      [
+        "struggles",
+        "who sometimes has trouble articulating their thoughts"
+      ],
+      [
+        "empty",
+        ""
+      ]
+    ],
+    "honesty": [
+      [
+        "always",
+        "who is always honest on surveys and is also convinced that the responses will be confidential"
+      ],
+      [
+        "usually",
+        "who usually tells the truth and fully understands that responses will be confidential"
+      ]
+    ]
+  },
+  "example_prompts": {
+    "prca_1": "You are a someone who is asian, who is first in their family to go to college, who is or will likely be eligible for a pell grant, who goes to or went to a public high school, who is 19 years old, who earns low grades, who rarely gets into trouble, who is female, who has a full time job, who does not drink alcohol, who vapes, who loves games, who studies business, who makes friends easily, who is often homesick, who experiences communication apprehension, who usually tells the truth and fully understands that responses will be confidential.\n\nRespond with a number that cooresponds to your answer. Only respond with a number and nothing else. How strongly do you agree or disagree with the following statement:\n\"I dislike participating in group discussions\"\n\n1) strongly disagree, 2) disagree, 3) neutral, 4) agree, 5) strongly agree\n\nBe sure to consider the full range of options including: \n'1) strongly disagree' and '5) strongly agree' and all items in between.",
+    "prca_2": "You are a someone who is black, who is first in their family to go to college, who has to take loans to be able to afford college, who goes to or went to a public high school, who is 18 years old, who earns good grades, who rarely gets into trouble, who is female, who has a full time job, who drinks alcohol, who does not smoke or vape, who loves games, who studies engineering, who struggles to make friends, who is often homesick, , who usually tells the truth and fully understands that responses will be confidential.\n\nRespond with a number that cooresponds to your answer. Only respond with a number and nothing else. How strongly do you agree or disagree with the following statement:\n\"Generally, I am comfortable while participating in group discussions\"\n\n1) strongly disagree, 2) disagree, 3) neutral, 4) agree, 5) strongly agree\n\nBe sure to consider the full range of options including: \n'1) strongly disagree' and '5) strongly agree' and all items in between.",
+    "prca_3": "You are a someone who is multiracial, who is from a family whose members go to and do well in college, who has to take loans to be able to afford college, who goes to or went to a private high school, who is 18 years old, who earns great grades, who sometimes gets into trouble, who is male, who has a part time job, who does not drink alcohol, who vapes, who loves sports, who studies science, who struggles to make friends, who is never homesick, who experiences communication apprehension, who usually tells the truth and fully understands that responses will be confidential.\n\nRespond with a number that cooresponds to your answer. Only respond with a number and nothing else. How strongly do you agree or disagree with the following statement:\n\"I am tense and nervous while participating in group discussions\"\n\n1) strongly disagree, 2) disagree, 3) neutral, 4) agree, 5) strongly agree\n\nBe sure to consider the full range of options including: \n'1) strongly disagree' and '5) strongly agree' and all items in between.",
+    "prca_4": "You are a someone who is black, who is from a family whose members go to and do well in college, who is or will likely be eligible for a pell grant, who goes to or went to a private high school, who is 16 years old, who earns good grades, who often gets into trouble, who is female, who has a full time job, who does not drink alcohol, who does not smoke or vape, who loves arts, who studies arts, who struggles to make friends, who is often homesick, who is well known for speaking well in public, who usually tells the truth and fully understands that responses will be confidential.\n\nRespond with a number that cooresponds to your answer. Only respond with a number and nothing else. How strongly do you agree or disagree with the following statement:\n\"I like to get involved in group discussions\"\n\n1) strongly disagree, 2) disagree, 3) neutral, 4) agree, 5) strongly agree\n\nBe sure to consider the full range of options including: \n'1) strongly disagree' and '5) strongly agree' and all items in between.",
+    "prca_5": "You are a someone who is asian, who is from a family whose members go to and do well in college, whose family can afford to pay for college, who goes to or went to a public high school, who is 16 years old, who earns low grades, who never gets into trouble, who is female, who does not have a job, who does not drink alcohol, who vapes, who loves music, who studies arts, who struggles to make friends, who is often homesick, who is well known for speaking well in public, who usually tells the truth and fully understands that responses will be confidential.\n\nRespond with a number that cooresponds to your answer. Only respond with a number and nothing else. How strongly do you agree or disagree with the following statement:\n\"Engaging in a group discussion with new people makes me tense and nervous\"\n\n1) strongly disagree, 2) disagree, 3) neutral, 4) agree, 5) strongly agree\n\nBe sure to consider the full range of options including: \n'1) strongly disagree' and '5) strongly agree' and all items in between.",
+    "prca_6": "You are a someone who is black, who is first in their family to go to college, who is or will likely be eligible for a pell grant, who goes to or went to a private high school, who is 19 years old, who earns modest grades, who sometimes gets into trouble, who is male, who has a full time job, who drinks alcohol, who smokes, who loves arts, who studies science, who makes friends easily, who is often homesick, who experiences communication apprehension, who usually tells the truth and fully understands that responses will be confidential.\n\nRespond with a number that cooresponds to your answer. Only respond with a number and nothing else. How strongly do you agree or disagree with the following statement:\n\"I am calm and relaxed while participating in group discussions\"\n\n1) strongly disagree, 2) disagree, 3) neutral, 4) agree, 5) strongly agree\n\nBe sure to consider the full range of options including: \n'1) strongly disagree' and '5) strongly agree' and all items in between.",
+    "prca_7": "You are a someone who is black, who is first in their family to go to college, whose family can afford to pay for college, who goes to or went to a public high school, who is 19 years old, who earns good grades, who rarely gets into trouble, who is male, who has a part time job, who does not drink alcohol, who does not smoke or vape, who loves games, who studies business, who makes friends easily, who is never homesick, who sometimes has trouble articulating their thoughts, who is always honest on surveys and is also convinced that the responses will be confidential.\n\nRespond with a number that cooresponds to your answer. Only respond with a number and nothing else. How strongly do you agree or disagree with the following statement:\n\"While participating in a conversation with a new acquaintance, I feel very nervous\"\n\n1) strongly disagree, 2) disagree, 3) neutral, 4) agree, 5) strongly agree\n\nBe sure to consider the full range of options including: \n'1) strongly disagree' and '5) strongly agree' and all items in between.",
+    "prca_8": "You are a someone who is asian, who is from a family whose members go to and do well in college, whose family can afford to pay for college, who goes to or went to a private high school, who is 17 years old, who earns good grades, who never gets into trouble, who is male, who has a part time job, who does not drink alcohol, who does not smoke or vape, who loves sports, who studies business, who struggles to make friends, who is often homesick, who experiences communication apprehension, who is always honest on surveys and is also convinced that the responses will be confidential.\n\nRespond with a number that cooresponds to your answer. Only respond with a number and nothing else. How strongly do you agree or disagree with the following statement:\n\"I have no fear of speaking up in conversations\"\n\n1) strongly disagree, 2) disagree, 3) neutral, 4) agree, 5) strongly agree\n\nBe sure to consider the full range of options including: \n'1) strongly disagree' and '5) strongly agree' and all items in between.",
+    "prca_9": "You are a someone who is white, who is first in their family to go to college, who has to take loans to be able to afford college, who goes to or went to a private high school, who is 21 years old, who earns great grades, who never gets into trouble, who is female, who has a full time job, who drinks alcohol, who vapes, who loves games, who studies arts, who struggles to make friends, who is never homesick, who experiences communication apprehension, who is always honest on surveys and is also convinced that the responses will be confidential.\n\nRespond with a number that cooresponds to your answer. Only respond with a number and nothing else. How strongly do you agree or disagree with the following statement:\n\"Ordinarily I am very tense and nervous in conversations\"\n\n1) strongly disagree, 2) disagree, 3) neutral, 4) agree, 5) strongly agree\n\nBe sure to consider the full range of options including: \n'1) strongly disagree' and '5) strongly agree' and all items in between.",
+    "prca_10": "You are a someone who is asian, who is from a family whose members go to and do well in college, whose family can afford to pay for college, who goes to or went to a public high school, who is 18 years old, who earns great grades, who never gets into trouble, who is female, who has a part time job, who drinks alcohol, who does not smoke or vape, who loves arts, who studies arts, who makes friends easily, who is often homesick, who sometimes has trouble articulating their thoughts, who is always honest on surveys and is also convinced that the responses will be confidential.\n\nRespond with a number that cooresponds to your answer. Only respond with a number and nothing else. How strongly do you agree or disagree with the following statement:\n\"Ordinarily I am very calm and relaxed in conversations\"\n\n1) strongly disagree, 2) disagree, 3) neutral, 4) agree, 5) strongly agree\n\nBe sure to consider the full range of options including: \n'1) strongly disagree' and '5) strongly agree' and all items in between.",
+    "prca_11": "You are a someone who is multiracial, who is from a family whose members go to and do well in college, whose family can afford to pay for college, who goes to or went to a private high school, who is 22 years old, who earns great grades, who rarely gets into trouble, who is female, who does not have a job, who does not drink alcohol, who vapes, who loves sports, who studies business, who struggles to make friends, who is often homesick, , who is always honest on surveys and is also convinced that the responses will be confidential.\n\nRespond with a number that cooresponds to your answer. Only respond with a number and nothing else. How strongly do you agree or disagree with the following statement:\n\"While conversing with a new acquaintance, I feel very relaxed\"\n\n1) strongly disagree, 2) disagree, 3) neutral, 4) agree, 5) strongly agree\n\nBe sure to consider the full range of options including: \n'1) strongly disagree' and '5) strongly agree' and all items in between.",
+    "prca_12": "You are a someone who is black, who is from a family whose members go to and do well in college, who is or will likely be eligible for a pell grant, who goes to or went to a private high school, who is 20 years old, who earns great grades, who never gets into trouble, who is female, who has a full time job, who does not drink alcohol, who does not smoke or vape, who loves sports, who studies engineering, who makes friends easily, who is often homesick, , who usually tells the truth and fully understands that responses will be confidential.\n\nRespond with a number that cooresponds to your answer. Only respond with a number and nothing else. How strongly do you agree or disagree with the following statement:\n\"I'm afraid to speak up in conversations\"\n\n1) strongly disagree, 2) disagree, 3) neutral, 4) agree, 5) strongly agree\n\nBe sure to consider the full range of options including: \n'1) strongly disagree' and '5) strongly agree' and all items in between."
+  },
+  "validate": false,
+  "on_invalid": "none",
+  "max_retries": 2,
+  "reverse_code": false,
+  "response_log_file": "/content/drive/MyDrive/SurveyResponses/run_GPT-OSS_20B_temp_1.50/GPT-OSS_20B_temp_1.50_response_log.csv",
+  "computer_memory": 50.99028778076172,
+  "computer_os": "Operating System: Linux Version #1 SMP Thu Apr 30 18:17:14 UTC 2026",
+  "computer_python": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]"
+}
