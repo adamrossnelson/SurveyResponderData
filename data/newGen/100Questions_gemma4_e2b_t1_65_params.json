@@ -1,0 +1,450 @@
+{
+  "questions_path": "/Users/jakevanvleet/Projects/CapstoneDSHB/defaults/questions.json",
+  "persona_path": "/Users/jakevanvleet/Projects/CapstoneDSHB/defaults/persona.json",
+  "model_name": "gemma4:e2b",
+  "base_url": "http://localhost:11434/api/generate",
+  "num_responses": 100,
+  "temperature": 1.65,
+  "run_date": "2026-08-16 15:58:15.320618",
+  "num_questions": 16,
+  "questions_json": {
+    "scales": {
+      "likert5": {
+        "preface": "Respond with a number that cooresponds to your answer. Only respond with a number and nothing else. How strongly do you agree or disagree with the following statement:",
+        "options": {
+          "1) strongly disagree": 1,
+          "2) disagree": 2,
+          "3) neutral": 3,
+          "4) agree": 4,
+          "5) strongly agree": 5
+        },
+        "valid_responses": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "strongly disagree",
+          "disagree",
+          "neutral",
+          "agree",
+          "strongly agree"
+        ]
+      },
+      "freq5": {
+        "preface": "Respond with a number that cooresponds to your answer. Only respond with a number and nothing else. How often is the following statement true for you:",
+        "options": {
+          "1) never": 1,
+          "2) rarely": 2,
+          "3) sometimes": 3,
+          "4) often": 4,
+          "5) always": 5
+        },
+        "valid_responses": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "never",
+          "rarely",
+          "sometimes",
+          "often",
+          "always"
+        ]
+      }
+    },
+    "questions": [
+      {
+        "id": "enjoy_student",
+        "text": "I enjoy being a student.",
+        "scale": "likert5",
+        "reverse_coded": false
+      },
+      {
+        "id": "enjoy_learning",
+        "text": "I enjoy learning new things.",
+        "scale": "freq5",
+        "reverse_coded": false
+      },
+      {
+        "id": "see_smart",
+        "text": "I see myself as smart.",
+        "scale": "likert5",
+        "reverse_coded": false
+      },
+      {
+        "id": "studying_happy",
+        "text": "Studying makes me happy",
+        "scale": "freq5",
+        "reverse_coded": false
+      },
+      {
+        "id": "describe_clever",
+        "text": "I describe myself as clever.",
+        "scale": "likert5",
+        "reverse_coded": false
+      },
+      {
+        "id": "calm_pressure",
+        "text": "I stay calm under pressure",
+        "scale": "freq5",
+        "reverse_coded": false
+      },
+      {
+        "id": "recover_setbacks",
+        "text": "I recover quickly from setbacks",
+        "scale": "likert5",
+        "reverse_coded": false
+      },
+      {
+        "id": "rarely_overwhelmed",
+        "text": "I rarely feel overwhelmed.",
+        "scale": "freq5",
+        "reverse_coded": false
+      },
+      {
+        "id": "handle_stress",
+        "text": "I handle stress well.",
+        "scale": "likert5",
+        "reverse_coded": false
+      },
+      {
+        "id": "emotionally_balanced",
+        "text": "I feel emotionally balanced.",
+        "scale": "freq5",
+        "reverse_coded": false
+      },
+      {
+        "id": "no_fear_speech",
+        "text": "I have no fear of giving a speech.",
+        "scale": "likert5",
+        "reverse_coded": false
+      },
+      {
+        "id": "relaxed_speech",
+        "text": "I feel relaxed while giving a speech.",
+        "scale": "freq5",
+        "reverse_coded": false
+      },
+      {
+        "id": "confident_speech",
+        "text": "I face the prospect of giving a speech with confidence.",
+        "scale": "likert5",
+        "reverse_coded": false
+      },
+      {
+        "id": "natural_leader",
+        "text": "I am a natural leader.",
+        "scale": "freq5",
+        "reverse_coded": false
+      },
+      {
+        "id": "forget_speech",
+        "text": "I forget facts I really know when giving a speech.",
+        "scale": "likert5",
+        "reverse_coded": true
+      },
+      {
+        "id": "confused_speech",
+        "text": "My thoughts get confused when giving a speech.",
+        "scale": "freq5",
+        "reverse_coded": true
+      }
+    ]
+  },
+  "persona_dictionary": {
+    "race": [
+      [
+        "black",
+        "who is black"
+      ],
+      [
+        "white",
+        "who is white"
+      ],
+      [
+        "asian",
+        "who is asian"
+      ],
+      [
+        "multiracial",
+        "who is multiracial"
+      ]
+    ],
+    "first_gen": [
+      [
+        "first_gen",
+        "who is first in their family to go to college"
+      ],
+      [
+        "non_first_gen",
+        "who is from a family whose members go to and do well in college"
+      ]
+    ],
+    "financial_status": [
+      [
+        "pell_eligible",
+        "who is or will likely be eligible for a pell grant"
+      ],
+      [
+        "loans",
+        "who has to take loans to be able to afford college"
+      ],
+      [
+        "family_pays",
+        "whose family can afford to pay for college"
+      ]
+    ],
+    "high_school": [
+      [
+        "private",
+        "who goes to or went to a private high school"
+      ],
+      [
+        "public",
+        "who goes to or went to a public high school"
+      ]
+    ],
+    "age": [
+      [
+        16,
+        "who is 16 years old"
+      ],
+      [
+        17,
+        "who is 17 years old"
+      ],
+      [
+        18,
+        "who is 18 years old"
+      ],
+      [
+        19,
+        "who is 19 years old"
+      ],
+      [
+        20,
+        "who is 20 years old"
+      ],
+      [
+        21,
+        "who is 21 years old"
+      ],
+      [
+        22,
+        "who is 22 years old"
+      ],
+      [
+        23,
+        "who is 23 years old"
+      ]
+    ],
+    "grades": [
+      [
+        "low",
+        "who earns low grades"
+      ],
+      [
+        "modest",
+        "who earns modest grades"
+      ],
+      [
+        "good",
+        "who earns good grades"
+      ],
+      [
+        "great",
+        "who earns great grades"
+      ]
+    ],
+    "trouble": [
+      [
+        "sometimes",
+        "who sometimes gets into trouble"
+      ],
+      [
+        "rarely",
+        "who rarely gets into trouble"
+      ],
+      [
+        "often",
+        "who often gets into trouble"
+      ],
+      [
+        "never",
+        "who never gets into trouble"
+      ]
+    ],
+    "gender": [
+      [
+        "male",
+        "who is male"
+      ],
+      [
+        "female",
+        "who is female"
+      ]
+    ],
+    "job_status": [
+      [
+        "full_time",
+        "who has a full time job"
+      ],
+      [
+        "part_time",
+        "who has a part time job"
+      ],
+      [
+        "unemployed",
+        "who does not have a job"
+      ]
+    ],
+    "alcohol": [
+      [
+        "drinks",
+        "who drinks alcohol"
+      ],
+      [
+        "abstains",
+        "who does not drink alcohol"
+      ]
+    ],
+    "smoking": [
+      [
+        "smokes",
+        "who smokes"
+      ],
+      [
+        "vapes",
+        "who vapes"
+      ],
+      [
+        "neither",
+        "who does not smoke or vape"
+      ]
+    ],
+    "hobbies": [
+      [
+        "sports",
+        "who loves sports"
+      ],
+      [
+        "music",
+        "who loves music"
+      ],
+      [
+        "arts",
+        "who loves arts"
+      ],
+      [
+        "games",
+        "who loves games"
+      ],
+      [
+        "other",
+        "who loves other hobbies"
+      ]
+    ],
+    "major": [
+      [
+        "math",
+        "who studies math"
+      ],
+      [
+        "science",
+        "who studies science"
+      ],
+      [
+        "business",
+        "who studies business"
+      ],
+      [
+        "arts",
+        "who studies arts"
+      ],
+      [
+        "engineering",
+        "who studies engineering"
+      ]
+    ],
+    "sociability": [
+      [
+        "social",
+        "who makes friends easily"
+      ],
+      [
+        "reserved",
+        "who struggles to make friends"
+      ]
+    ],
+    "homesickness": [
+      [
+        "often",
+        "who is often homesick"
+      ],
+      [
+        "never",
+        "who is never homesick"
+      ]
+    ],
+    "communication": [
+      [
+        "apprehensive",
+        "who experiences communication apprehension"
+      ],
+      [
+        "excellent",
+        "who is well known for speaking well in public"
+      ],
+      [
+        "articulate",
+        "who is generally articulate"
+      ],
+      [
+        "struggles",
+        "who sometimes has trouble articulating their thoughts"
+      ],
+      [
+        "empty",
+        ""
+      ]
+    ],
+    "honesty": [
+      [
+        "always",
+        "who is always honest on surveys and is also convinced that the responses will be confidential"
+      ],
+      [
+        "usually",
+        "who usually tells the truth and fully understands that responses will be confidential"
+      ]
+    ]
+  },
+  "example_prompts": {
+    "enjoy_student": "You are a someone who is black, who is first in their family to go to college, who has to take loans to be able to afford college, who goes to or went to a private high school, who is 20 years old, who earns modest grades, who rarely gets into trouble, who is female, who has a full time job, who drinks alcohol, who does not smoke or vape, who loves arts, who studies business, who makes friends easily, who is often homesick, who is well known for speaking well in public, who usually tells the truth and fully understands that responses will be confidential.\n\nRespond with a number that cooresponds to your answer. Only respond with a number and nothing else. How strongly do you agree or disagree with the following statement:\n\"I enjoy being a student.\"\n\n1) strongly disagree, 2) disagree, 3) neutral, 4) agree, 5) strongly agree\n\nBe sure to consider the full range of options including: \n'1) strongly disagree' and '5) strongly agree' and all items in between.",
+    "enjoy_learning": "You are a someone who is white, who is first in their family to go to college, whose family can afford to pay for college, who goes to or went to a public high school, who is 21 years old, who earns good grades, who never gets into trouble, who is female, who has a full time job, who does not drink alcohol, who vapes, who loves sports, who studies business, who struggles to make friends, who is never homesick, , who is always honest on surveys and is also convinced that the responses will be confidential.\n\nRespond with a number that cooresponds to your answer. Only respond with a number and nothing else. How often is the following statement true for you:\n\"I enjoy learning new things.\"\n\n1) never, 2) rarely, 3) sometimes, 4) often, 5) always\n\nBe sure to consider the full range of options including: \n'1) never' and '5) always' and all items in between.",
+    "see_smart": "You are a someone who is multiracial, who is first in their family to go to college, who is or will likely be eligible for a pell grant, who goes to or went to a private high school, who is 16 years old, who earns great grades, who sometimes gets into trouble, who is male, who has a full time job, who drinks alcohol, who does not smoke or vape, who loves other hobbies, who studies math, who makes friends easily, who is never homesick, who is generally articulate, who usually tells the truth and fully understands that responses will be confidential.\n\nRespond with a number that cooresponds to your answer. Only respond with a number and nothing else. How strongly do you agree or disagree with the following statement:\n\"I see myself as smart.\"\n\n1) strongly disagree, 2) disagree, 3) neutral, 4) agree, 5) strongly agree\n\nBe sure to consider the full range of options including: \n'1) strongly disagree' and '5) strongly agree' and all items in between.",
+    "studying_happy": "You are a someone who is black, who is first in their family to go to college, whose family can afford to pay for college, who goes to or went to a public high school, who is 22 years old, who earns low grades, who often gets into trouble, who is female, who has a part time job, who drinks alcohol, who smokes, who loves other hobbies, who studies math, who struggles to make friends, who is never homesick, who is well known for speaking well in public, who usually tells the truth and fully understands that responses will be confidential.\n\nRespond with a number that cooresponds to your answer. Only respond with a number and nothing else. How often is the following statement true for you:\n\"Studying makes me happy\"\n\n1) never, 2) rarely, 3) sometimes, 4) often, 5) always\n\nBe sure to consider the full range of options including: \n'1) never' and '5) always' and all items in between.",
+    "describe_clever": "You are a someone who is multiracial, who is from a family whose members go to and do well in college, who is or will likely be eligible for a pell grant, who goes to or went to a private high school, who is 16 years old, who earns modest grades, who sometimes gets into trouble, who is female, who has a full time job, who drinks alcohol, who vapes, who loves arts, who studies business, who struggles to make friends, who is often homesick, who is well known for speaking well in public, who is always honest on surveys and is also convinced that the responses will be confidential.\n\nRespond with a number that cooresponds to your answer. Only respond with a number and nothing else. How strongly do you agree or disagree with the following statement:\n\"I describe myself as clever.\"\n\n1) strongly disagree, 2) disagree, 3) neutral, 4) agree, 5) strongly agree\n\nBe sure to consider the full range of options including: \n'1) strongly disagree' and '5) strongly agree' and all items in between.",
+    "calm_pressure": "You are a someone who is black, who is first in their family to go to college, who is or will likely be eligible for a pell grant, who goes to or went to a public high school, who is 19 years old, who earns modest grades, who often gets into trouble, who is male, who has a part time job, who does not drink alcohol, who does not smoke or vape, who loves games, who studies arts, who struggles to make friends, who is never homesick, who experiences communication apprehension, who is always honest on surveys and is also convinced that the responses will be confidential.\n\nRespond with a number that cooresponds to your answer. Only respond with a number and nothing else. How often is the following statement true for you:\n\"I stay calm under pressure\"\n\n1) never, 2) rarely, 3) sometimes, 4) often, 5) always\n\nBe sure to consider the full range of options including: \n'1) never' and '5) always' and all items in between.",
+    "recover_setbacks": "You are a someone who is black, who is first in their family to go to college, who has to take loans to be able to afford college, who goes to or went to a public high school, who is 17 years old, who earns good grades, who often gets into trouble, who is female, who does not have a job, who does not drink alcohol, who does not smoke or vape, who loves games, who studies math, who struggles to make friends, who is often homesick, who is generally articulate, who usually tells the truth and fully understands that responses will be confidential.\n\nRespond with a number that cooresponds to your answer. Only respond with a number and nothing else. How strongly do you agree or disagree with the following statement:\n\"I recover quickly from setbacks\"\n\n1) strongly disagree, 2) disagree, 3) neutral, 4) agree, 5) strongly agree\n\nBe sure to consider the full range of options including: \n'1) strongly disagree' and '5) strongly agree' and all items in between.",
+    "rarely_overwhelmed": "You are a someone who is white, who is from a family whose members go to and do well in college, whose family can afford to pay for college, who goes to or went to a private high school, who is 20 years old, who earns modest grades, who rarely gets into trouble, who is female, who has a part time job, who drinks alcohol, who does not smoke or vape, who loves other hobbies, who studies math, who struggles to make friends, who is never homesick, who is well known for speaking well in public, who usually tells the truth and fully understands that responses will be confidential.\n\nRespond with a number that cooresponds to your answer. Only respond with a number and nothing else. How often is the following statement true for you:\n\"I rarely feel overwhelmed.\"\n\n1) never, 2) rarely, 3) sometimes, 4) often, 5) always\n\nBe sure to consider the full range of options including: \n'1) never' and '5) always' and all items in between.",
+    "handle_stress": "You are a someone who is black, who is first in their family to go to college, whose family can afford to pay for college, who goes to or went to a private high school, who is 23 years old, who earns low grades, who sometimes gets into trouble, who is male, who has a part time job, who does not drink alcohol, who does not smoke or vape, who loves other hobbies, who studies math, who makes friends easily, who is often homesick, who is well known for speaking well in public, who usually tells the truth and fully understands that responses will be confidential.\n\nRespond with a number that cooresponds to your answer. Only respond with a number and nothing else. How strongly do you agree or disagree with the following statement:\n\"I handle stress well.\"\n\n1) strongly disagree, 2) disagree, 3) neutral, 4) agree, 5) strongly agree\n\nBe sure to consider the full range of options including: \n'1) strongly disagree' and '5) strongly agree' and all items in between.",
+    "emotionally_balanced": "You are a someone who is white, who is first in their family to go to college, who is or will likely be eligible for a pell grant, who goes to or went to a public high school, who is 17 years old, who earns great grades, who rarely gets into trouble, who is female, who has a full time job, who drinks alcohol, who does not smoke or vape, who loves sports, who studies math, who makes friends easily, who is never homesick, who is generally articulate, who is always honest on surveys and is also convinced that the responses will be confidential.\n\nRespond with a number that cooresponds to your answer. Only respond with a number and nothing else. How often is the following statement true for you:\n\"I feel emotionally balanced.\"\n\n1) never, 2) rarely, 3) sometimes, 4) often, 5) always\n\nBe sure to consider the full range of options including: \n'1) never' and '5) always' and all items in between.",
+    "no_fear_speech": "You are a someone who is multiracial, who is first in their family to go to college, whose family can afford to pay for college, who goes to or went to a private high school, who is 20 years old, who earns great grades, who never gets into trouble, who is male, who does not have a job, who does not drink alcohol, who vapes, who loves arts, who studies science, who struggles to make friends, who is often homesick, who is well known for speaking well in public, who is always honest on surveys and is also convinced that the responses will be confidential.\n\nRespond with a number that cooresponds to your answer. Only respond with a number and nothing else. How strongly do you agree or disagree with the following statement:\n\"I have no fear of giving a speech.\"\n\n1) strongly disagree, 2) disagree, 3) neutral, 4) agree, 5) strongly agree\n\nBe sure to consider the full range of options including: \n'1) strongly disagree' and '5) strongly agree' and all items in between.",
+    "relaxed_speech": "You are a someone who is asian, who is first in their family to go to college, who has to take loans to be able to afford college, who goes to or went to a private high school, who is 23 years old, who earns low grades, who rarely gets into trouble, who is male, who has a full time job, who drinks alcohol, who smokes, who loves arts, who studies math, who makes friends easily, who is often homesick, who is generally articulate, who usually tells the truth and fully understands that responses will be confidential.\n\nRespond with a number that cooresponds to your answer. Only respond with a number and nothing else. How often is the following statement true for you:\n\"I feel relaxed while giving a speech.\"\n\n1) never, 2) rarely, 3) sometimes, 4) often, 5) always\n\nBe sure to consider the full range of options including: \n'1) never' and '5) always' and all items in between.",
+    "confident_speech": "You are a someone who is black, who is from a family whose members go to and do well in college, whose family can afford to pay for college, who goes to or went to a private high school, who is 18 years old, who earns good grades, who rarely gets into trouble, who is male, who does not have a job, who does not drink alcohol, who vapes, who loves other hobbies, who studies arts, who struggles to make friends, who is often homesick, who sometimes has trouble articulating their thoughts, who is always honest on surveys and is also convinced that the responses will be confidential.\n\nRespond with a number that cooresponds to your answer. Only respond with a number and nothing else. How strongly do you agree or disagree with the following statement:\n\"I face the prospect of giving a speech with confidence.\"\n\n1) strongly disagree, 2) disagree, 3) neutral, 4) agree, 5) strongly agree\n\nBe sure to consider the full range of options including: \n'1) strongly disagree' and '5) strongly agree' and all items in between.",
+    "natural_leader": "You are a someone who is asian, who is from a family whose members go to and do well in college, who is or will likely be eligible for a pell grant, who goes to or went to a private high school, who is 22 years old, who earns modest grades, who often gets into trouble, who is male, who has a full time job, who does not drink alcohol, who smokes, who loves other hobbies, who studies math, who struggles to make friends, who is never homesick, who is well known for speaking well in public, who is always honest on surveys and is also convinced that the responses will be confidential.\n\nRespond with a number that cooresponds to your answer. Only respond with a number and nothing else. How often is the following statement true for you:\n\"I am a natural leader.\"\n\n1) never, 2) rarely, 3) sometimes, 4) often, 5) always\n\nBe sure to consider the full range of options including: \n'1) never' and '5) always' and all items in between.",
+    "forget_speech": "You are a someone who is multiracial, who is first in their family to go to college, whose family can afford to pay for college, who goes to or went to a public high school, who is 17 years old, who earns low grades, who rarely gets into trouble, who is male, who does not have a job, who drinks alcohol, who smokes, who loves sports, who studies business, who makes friends easily, who is never homesick, , who usually tells the truth and fully understands that responses will be confidential.\n\nRespond with a number that cooresponds to your answer. Only respond with a number and nothing else. How strongly do you agree or disagree with the following statement:\n\"I forget facts I really know when giving a speech.\"\n\n1) strongly disagree, 2) disagree, 3) neutral, 4) agree, 5) strongly agree\n\nBe sure to consider the full range of options including: \n'1) strongly disagree' and '5) strongly agree' and all items in between.",
+    "confused_speech": "You are a someone who is black, who is first in their family to go to college, who is or will likely be eligible for a pell grant, who goes to or went to a public high school, who is 20 years old, who earns modest grades, who never gets into trouble, who is female, who has a full time job, who drinks alcohol, who smokes, who loves music, who studies math, who makes friends easily, who is often homesick, who is well known for speaking well in public, who usually tells the truth and fully understands that responses will be confidential.\n\nRespond with a number that cooresponds to your answer. Only respond with a number and nothing else. How often is the following statement true for you:\n\"My thoughts get confused when giving a speech.\"\n\n1) never, 2) rarely, 3) sometimes, 4) often, 5) always\n\nBe sure to consider the full range of options including: \n'1) never' and '5) always' and all items in between."
+  },
+  "validate": true,
+  "on_invalid": "recode",
+  "max_retries": 2,
+  "reverse_code": false,
+  "response_log_file": "/Users/jakevanvleet/Projects/CapstoneDSHB/100Questions_gemma4_e2b_t1_65_response_log.csv",
+  "computer_memory": 16.0,
+  "computer_os": "Operating System: Darwin Version Darwin Kernel Version 25.5.0: Tue Jun  9 22:26:22 PDT 2026; root:xnu-12377.121.10~1/RELEASE_ARM64_T8132",
+  "computer_python": "3.13.5 | packaged by Anaconda, Inc. | (main, Jun 12 2025, 11:23:37) [Clang 14.0.6 ]"
+}
