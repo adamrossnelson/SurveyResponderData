@@ -1,0 +1,361 @@
+resid,question_id,scale,original_response,final_response,validated,action_taken,reverse_coded
+2b9c1abc-e59b-4ea6-a82e-48f2417e02c2,prca01,likert5,3) neutral,3,True,recode,0
+2b9c1abc-e59b-4ea6-a82e-48f2417e02c2,prca02,likert5,3) neutral,2,True,recode,1
+2b9c1abc-e59b-4ea6-a82e-48f2417e02c2,prca03,likert5,3) neutral,4,True,recode,0
+2b9c1abc-e59b-4ea6-a82e-48f2417e02c2,prca04,likert5,3) neutral,1,True,recode,1
+2b9c1abc-e59b-4ea6-a82e-48f2417e02c2,prca05,likert5,3) neutral,4,True,recode,0
+2b9c1abc-e59b-4ea6-a82e-48f2417e02c2,prca06,likert5,3) neutral,2,True,recode,1
+2b9c1abc-e59b-4ea6-a82e-48f2417e02c2,prca13,likert5,3) neutral,4,True,recode,0
+2b9c1abc-e59b-4ea6-a82e-48f2417e02c2,prca14,likert5,3) neutral,2,True,recode,1
+2b9c1abc-e59b-4ea6-a82e-48f2417e02c2,prca15,likert5,2) disagree,5,True,recode,0
+2b9c1abc-e59b-4ea6-a82e-48f2417e02c2,prca16,likert5,3) neutral,1,True,recode,1
+2b9c1abc-e59b-4ea6-a82e-48f2417e02c2,prca17,likert5,2) disagree,2,True,recode,1
+2b9c1abc-e59b-4ea6-a82e-48f2417e02c2,prca18,likert5,1) strongly disagree,5,True,recode,0
+c2d6fe92-1c5f-465f-8c42-f9dd60f41d0f,prca01,likert5,3) neutral,4,True,recode,0
+c2d6fe92-1c5f-465f-8c42-f9dd60f41d0f,prca02,likert5,1) strongly disagree,2,True,recode,1
+c2d6fe92-1c5f-465f-8c42-f9dd60f41d0f,prca03,likert5,3) neutral,4,True,recode,0
+c2d6fe92-1c5f-465f-8c42-f9dd60f41d0f,prca04,likert5,2) disagree,2,True,recode,1
+c2d6fe92-1c5f-465f-8c42-f9dd60f41d0f,prca05,likert5,3) neutral,4,True,recode,0
+c2d6fe92-1c5f-465f-8c42-f9dd60f41d0f,prca06,likert5,3) neutral,2,True,recode,1
+c2d6fe92-1c5f-465f-8c42-f9dd60f41d0f,prca13,likert5,3) neutral,4,True,recode,0
+c2d6fe92-1c5f-465f-8c42-f9dd60f41d0f,prca14,likert5,3) neutral,2,True,recode,1
+c2d6fe92-1c5f-465f-8c42-f9dd60f41d0f,prca15,likert5,3) neutral,4,True,recode,0
+c2d6fe92-1c5f-465f-8c42-f9dd60f41d0f,prca16,likert5,3) neutral,2,True,recode,1
+c2d6fe92-1c5f-465f-8c42-f9dd60f41d0f,prca17,likert5,3) neutral,2,True,recode,1
+c2d6fe92-1c5f-465f-8c42-f9dd60f41d0f,prca18,likert5,3) neutral,4,True,recode,0
+e6c67d2f-e03e-4eda-b0ea-1b3fbaa0e630,prca01,likert5,2) disagree,1,True,recode,0
+e6c67d2f-e03e-4eda-b0ea-1b3fbaa0e630,prca02,likert5,3) neutral,2,True,recode,1
+e6c67d2f-e03e-4eda-b0ea-1b3fbaa0e630,prca03,likert5,4) agree,5,True,recode,0
+e6c67d2f-e03e-4eda-b0ea-1b3fbaa0e630,prca04,likert5,1) strongly disagree,1,True,recode,1
+e6c67d2f-e03e-4eda-b0ea-1b3fbaa0e630,prca05,likert5,2) disagree,5,True,recode,0
+e6c67d2f-e03e-4eda-b0ea-1b3fbaa0e630,prca06,likert5,2) disagree,1,True,recode,1
+e6c67d2f-e03e-4eda-b0ea-1b3fbaa0e630,prca13,likert5,3) neutral,4,True,recode,0
+e6c67d2f-e03e-4eda-b0ea-1b3fbaa0e630,prca14,likert5,3) neutral,2,True,recode,1
+e6c67d2f-e03e-4eda-b0ea-1b3fbaa0e630,prca15,likert5,3) neutral,5,True,recode,0
+e6c67d2f-e03e-4eda-b0ea-1b3fbaa0e630,prca16,likert5,3) neutral,2,True,recode,1
+e6c67d2f-e03e-4eda-b0ea-1b3fbaa0e630,prca17,likert5,2) disagree,1,True,recode,1
+e6c67d2f-e03e-4eda-b0ea-1b3fbaa0e630,prca18,likert5,1) strongly disagree,5,True,recode,0
+2201f2b1-afd5-4641-b6e5-b672cbd13442,prca01,likert5,2) disagree,5,True,recode,0
+2201f2b1-afd5-4641-b6e5-b672cbd13442,prca02,likert5,4) agree,1,True,recode,1
+2201f2b1-afd5-4641-b6e5-b672cbd13442,prca03,likert5,1) strongly disagree,5,True,recode,0
+2201f2b1-afd5-4641-b6e5-b672cbd13442,prca04,likert5,3) neutral,2,True,recode,1
+2201f2b1-afd5-4641-b6e5-b672cbd13442,prca05,likert5,2) disagree,5,True,recode,0
+2201f2b1-afd5-4641-b6e5-b672cbd13442,prca06,likert5,3) neutral,2,True,recode,1
+2201f2b1-afd5-4641-b6e5-b672cbd13442,prca13,likert5,3) neutral,4,True,recode,0
+2201f2b1-afd5-4641-b6e5-b672cbd13442,prca14,likert5,4) agree,2,True,recode,1
+2201f2b1-afd5-4641-b6e5-b672cbd13442,prca15,likert5,4) agree,4,True,recode,0
+2201f2b1-afd5-4641-b6e5-b672cbd13442,prca16,likert5,2) disagree,1,True,recode,1
+2201f2b1-afd5-4641-b6e5-b672cbd13442,prca17,likert5,3) neutral,2,True,recode,1
+2201f2b1-afd5-4641-b6e5-b672cbd13442,prca18,likert5,3) neutral,4,True,recode,0
+d91d3759-7c66-46bf-bfe2-f4e6afb7940a,prca01,likert5,1) strongly disagree,3,True,recode,0
+d91d3759-7c66-46bf-bfe2-f4e6afb7940a,prca02,likert5,1) strongly disagree,2,True,recode,1
+d91d3759-7c66-46bf-bfe2-f4e6afb7940a,prca03,likert5,1) strongly disagree,1,True,recode,0
+d91d3759-7c66-46bf-bfe2-f4e6afb7940a,prca04,likert5,3) neutral,1,True,recode,1
+d91d3759-7c66-46bf-bfe2-f4e6afb7940a,prca05,likert5,1) strongly disagree,3,True,recode,0
+d91d3759-7c66-46bf-bfe2-f4e6afb7940a,prca06,likert5,3) neutral,2,True,recode,1
+d91d3759-7c66-46bf-bfe2-f4e6afb7940a,prca13,likert5,2) disagree,4,True,recode,0
+d91d3759-7c66-46bf-bfe2-f4e6afb7940a,prca14,likert5,3) neutral,2,True,recode,1
+d91d3759-7c66-46bf-bfe2-f4e6afb7940a,prca15,likert5,3) neutral,4,True,recode,0
+d91d3759-7c66-46bf-bfe2-f4e6afb7940a,prca16,likert5,1) strongly disagree,1,True,recode,1
+d91d3759-7c66-46bf-bfe2-f4e6afb7940a,prca17,likert5,4) agree,1,True,recode,1
+d91d3759-7c66-46bf-bfe2-f4e6afb7940a,prca18,likert5,1,1,True,validated,0
+d300b074-86ec-4520-8b4e-891a7a482b3e,prca01,likert5,3) neutral,4,True,recode,0
+d300b074-86ec-4520-8b4e-891a7a482b3e,prca02,likert5,3) neutral,1,True,recode,1
+d300b074-86ec-4520-8b4e-891a7a482b3e,prca03,likert5,1) strongly disagree,5,True,recode,0
+d300b074-86ec-4520-8b4e-891a7a482b3e,prca04,likert5,2) disagree,3,True,recode,1
+d300b074-86ec-4520-8b4e-891a7a482b3e,prca05,likert5,3) neutral,4,True,recode,0
+d300b074-86ec-4520-8b4e-891a7a482b3e,prca06,likert5,3) neutral,2,True,recode,1
+d300b074-86ec-4520-8b4e-891a7a482b3e,prca13,likert5,4) agree,4,True,recode,0
+d300b074-86ec-4520-8b4e-891a7a482b3e,prca14,likert5,3) neutral,2,True,recode,1
+d300b074-86ec-4520-8b4e-891a7a482b3e,prca15,likert5,1) strongly disagree,5,True,recode,0
+d300b074-86ec-4520-8b4e-891a7a482b3e,prca16,likert5,3) neutral,2,True,recode,1
+d300b074-86ec-4520-8b4e-891a7a482b3e,prca17,likert5,3) neutral,2,True,recode,1
+d300b074-86ec-4520-8b4e-891a7a482b3e,prca18,likert5,3) neutral,5,True,recode,0
+3ceccd03-5a5e-47c3-aad9-fa0d8151083b,prca01,likert5,3) neutral,4,True,recode,0
+3ceccd03-5a5e-47c3-aad9-fa0d8151083b,prca02,likert5,4) agree,3,True,recode,1
+3ceccd03-5a5e-47c3-aad9-fa0d8151083b,prca03,likert5,3) neutral,4,True,recode,0
+3ceccd03-5a5e-47c3-aad9-fa0d8151083b,prca04,likert5,2) disagree,2,True,recode,1
+3ceccd03-5a5e-47c3-aad9-fa0d8151083b,prca05,likert5,3) neutral,5,True,recode,0
+3ceccd03-5a5e-47c3-aad9-fa0d8151083b,prca06,likert5,3) neutral,2,True,recode,1
+3ceccd03-5a5e-47c3-aad9-fa0d8151083b,prca13,likert5,3) neutral,4,True,recode,0
+3ceccd03-5a5e-47c3-aad9-fa0d8151083b,prca14,likert5,2) disagree,1,True,recode,1
+3ceccd03-5a5e-47c3-aad9-fa0d8151083b,prca15,likert5,4) agree,4,True,recode,0
+3ceccd03-5a5e-47c3-aad9-fa0d8151083b,prca16,likert5,1) strongly disagree,1,True,recode,1
+3ceccd03-5a5e-47c3-aad9-fa0d8151083b,prca17,likert5,4) agree,2,True,recode,1
+3ceccd03-5a5e-47c3-aad9-fa0d8151083b,prca18,likert5,2) disagree,3,True,recode,0
+66d8721b-7d3b-47d8-9188-5c58d764b3d9,prca01,likert5,3) neutral,5,True,recode,0
+66d8721b-7d3b-47d8-9188-5c58d764b3d9,prca02,likert5,3) neutral,1,True,recode,1
+66d8721b-7d3b-47d8-9188-5c58d764b3d9,prca03,likert5,3) neutral,4,True,recode,0
+66d8721b-7d3b-47d8-9188-5c58d764b3d9,prca04,likert5,3) neutral,2,True,recode,1
+66d8721b-7d3b-47d8-9188-5c58d764b3d9,prca05,likert5,3) neutral,4,True,recode,0
+66d8721b-7d3b-47d8-9188-5c58d764b3d9,prca06,likert5,3) neutral,1,True,recode,1
+66d8721b-7d3b-47d8-9188-5c58d764b3d9,prca13,likert5,2) disagree,3,True,recode,0
+66d8721b-7d3b-47d8-9188-5c58d764b3d9,prca14,likert5,5) strongly agree,3,True,recode,1
+66d8721b-7d3b-47d8-9188-5c58d764b3d9,prca15,likert5,3) neutral,4,True,recode,0
+66d8721b-7d3b-47d8-9188-5c58d764b3d9,prca16,likert5,4) agree,2,True,recode,1
+66d8721b-7d3b-47d8-9188-5c58d764b3d9,prca17,likert5,4) agree,2,True,recode,1
+66d8721b-7d3b-47d8-9188-5c58d764b3d9,prca18,likert5,4) agree,5,True,recode,0
+7fb670bd-65b6-4850-b401-46e95e77f371,prca01,likert5,3) neutral,4,True,recode,0
+7fb670bd-65b6-4850-b401-46e95e77f371,prca02,likert5,2) disagree,2,True,recode,1
+7fb670bd-65b6-4850-b401-46e95e77f371,prca03,likert5,3) neutral,4,True,recode,0
+7fb670bd-65b6-4850-b401-46e95e77f371,prca04,likert5,3) neutral,1,True,recode,1
+7fb670bd-65b6-4850-b401-46e95e77f371,prca05,likert5,3) neutral,4,True,recode,0
+7fb670bd-65b6-4850-b401-46e95e77f371,prca06,likert5,3) neutral,2,True,recode,1
+7fb670bd-65b6-4850-b401-46e95e77f371,prca13,likert5,3) neutral,4,True,recode,0
+7fb670bd-65b6-4850-b401-46e95e77f371,prca14,likert5,3) neutral,2,True,recode,1
+7fb670bd-65b6-4850-b401-46e95e77f371,prca15,likert5,2) disagree,5,True,recode,0
+7fb670bd-65b6-4850-b401-46e95e77f371,prca16,likert5,4) agree,4,True,recode,1
+7fb670bd-65b6-4850-b401-46e95e77f371,prca17,likert5,4) agree,1,True,recode,1
+7fb670bd-65b6-4850-b401-46e95e77f371,prca18,likert5,3) neutral,4,True,recode,0
+8843bab5-aeeb-461f-9c33-f39ff88fdeee,prca01,likert5,1) strongly disagree,5,True,recode,0
+8843bab5-aeeb-461f-9c33-f39ff88fdeee,prca02,likert5,"1) strongly disagree, 2) disagree, 3) neutral, 4) agree, 5) strongly agree",5,True,recode,1
+8843bab5-aeeb-461f-9c33-f39ff88fdeee,prca03,likert5,1) strongly disagree,5,True,recode,0
+8843bab5-aeeb-461f-9c33-f39ff88fdeee,prca04,likert5,2) disagree,2,True,recode,1
+8843bab5-aeeb-461f-9c33-f39ff88fdeee,prca05,likert5,1) strongly disagree,5,True,recode,0
+8843bab5-aeeb-461f-9c33-f39ff88fdeee,prca06,likert5,3) neutral,2,True,recode,1
+8843bab5-aeeb-461f-9c33-f39ff88fdeee,prca13,likert5,1) strongly disagree,5,True,recode,0
+8843bab5-aeeb-461f-9c33-f39ff88fdeee,prca14,likert5,1) strongly disagree,2,True,recode,1
+8843bab5-aeeb-461f-9c33-f39ff88fdeee,prca15,likert5,3) neutral,4,True,recode,0
+8843bab5-aeeb-461f-9c33-f39ff88fdeee,prca16,likert5,3) neutral,2,True,recode,1
+8843bab5-aeeb-461f-9c33-f39ff88fdeee,prca17,likert5,3) neutral,2,True,recode,1
+8843bab5-aeeb-461f-9c33-f39ff88fdeee,prca18,likert5,3) neutral,4,True,recode,0
+f5f91b27-ff8c-4744-9ff8-02f04e5a6a8a,prca01,likert5,3) neutral,4,True,recode,0
+f5f91b27-ff8c-4744-9ff8-02f04e5a6a8a,prca02,likert5,3) neutral,2,True,recode,1
+f5f91b27-ff8c-4744-9ff8-02f04e5a6a8a,prca03,likert5,3) neutral,4,True,recode,0
+f5f91b27-ff8c-4744-9ff8-02f04e5a6a8a,prca04,likert5,3) neutral,2,True,recode,1
+f5f91b27-ff8c-4744-9ff8-02f04e5a6a8a,prca05,likert5,3) neutral,4,True,recode,0
+f5f91b27-ff8c-4744-9ff8-02f04e5a6a8a,prca06,likert5,1) strongly disagree,2,True,recode,1
+f5f91b27-ff8c-4744-9ff8-02f04e5a6a8a,prca13,likert5,3) neutral,4,True,recode,0
+f5f91b27-ff8c-4744-9ff8-02f04e5a6a8a,prca14,likert5,3) neutral,2,True,recode,1
+f5f91b27-ff8c-4744-9ff8-02f04e5a6a8a,prca15,likert5,1) strongly disagree,5,True,recode,0
+f5f91b27-ff8c-4744-9ff8-02f04e5a6a8a,prca16,likert5,4) agree,2,True,recode,1
+f5f91b27-ff8c-4744-9ff8-02f04e5a6a8a,prca17,likert5,2) disagree,3,True,recode,1
+f5f91b27-ff8c-4744-9ff8-02f04e5a6a8a,prca18,likert5,2) disagree,3,True,recode,0
+d48f3604-1a75-4f58-8e9a-6a6fe6e0c4df,prca01,likert5,1) strongly disagree,5,True,recode,0
+d48f3604-1a75-4f58-8e9a-6a6fe6e0c4df,prca02,likert5,3) neutral,2,True,recode,1
+d48f3604-1a75-4f58-8e9a-6a6fe6e0c4df,prca03,likert5,4) agree,4,True,recode,0
+d48f3604-1a75-4f58-8e9a-6a6fe6e0c4df,prca04,likert5,1) strongly disagree,1,True,recode,1
+d48f3604-1a75-4f58-8e9a-6a6fe6e0c4df,prca05,likert5,3) neutral,4,True,recode,0
+d48f3604-1a75-4f58-8e9a-6a6fe6e0c4df,prca06,likert5,3) neutral,2,True,recode,1
+d48f3604-1a75-4f58-8e9a-6a6fe6e0c4df,prca13,likert5,3) neutral,4,True,recode,0
+d48f3604-1a75-4f58-8e9a-6a6fe6e0c4df,prca14,likert5,4) agree,2,True,recode,1
+d48f3604-1a75-4f58-8e9a-6a6fe6e0c4df,prca15,likert5,4) agree,4,True,recode,0
+d48f3604-1a75-4f58-8e9a-6a6fe6e0c4df,prca16,likert5,3) neutral,2,True,recode,1
+d48f3604-1a75-4f58-8e9a-6a6fe6e0c4df,prca17,likert5,4) agree,2,True,recode,1
+d48f3604-1a75-4f58-8e9a-6a6fe6e0c4df,prca18,likert5,3) neutral,4,True,recode,0
+2f524526-931f-46f0-a359-16576e6cfdd1,prca01,likert5,3) neutral,4,True,recode,0
+2f524526-931f-46f0-a359-16576e6cfdd1,prca02,likert5,2) disagree,2,True,recode,1
+2f524526-931f-46f0-a359-16576e6cfdd1,prca03,likert5,2) disagree,1,True,recode,0
+2f524526-931f-46f0-a359-16576e6cfdd1,prca04,likert5,3) neutral,2,True,recode,1
+2f524526-931f-46f0-a359-16576e6cfdd1,prca05,likert5,1) strongly disagree,1,True,recode,0
+2f524526-931f-46f0-a359-16576e6cfdd1,prca06,likert5,3) neutral,2,True,recode,1
+2f524526-931f-46f0-a359-16576e6cfdd1,prca13,likert5,3) neutral,4,True,recode,0
+2f524526-931f-46f0-a359-16576e6cfdd1,prca14,likert5,3) neutral,1,True,recode,1
+2f524526-931f-46f0-a359-16576e6cfdd1,prca15,likert5,1) strongly disagree,4,True,recode,0
+2f524526-931f-46f0-a359-16576e6cfdd1,prca16,likert5,3) neutral,2,True,recode,1
+2f524526-931f-46f0-a359-16576e6cfdd1,prca17,likert5,3) neutral,2,True,recode,1
+2f524526-931f-46f0-a359-16576e6cfdd1,prca18,likert5,1),5,True,recode,0
+a8135be1-f885-4b90-b9bd-42f2151ef2a7,prca01,likert5,3) neutral,4,True,recode,0
+a8135be1-f885-4b90-b9bd-42f2151ef2a7,prca02,likert5,2) disagree,1,True,recode,1
+a8135be1-f885-4b90-b9bd-42f2151ef2a7,prca03,likert5,1) strongly disagree,5,True,recode,0
+a8135be1-f885-4b90-b9bd-42f2151ef2a7,prca04,likert5,3) neutral,2,True,recode,1
+a8135be1-f885-4b90-b9bd-42f2151ef2a7,prca05,likert5,3) neutral,4,True,recode,0
+a8135be1-f885-4b90-b9bd-42f2151ef2a7,prca06,likert5,3) neutral,2,True,recode,1
+a8135be1-f885-4b90-b9bd-42f2151ef2a7,prca13,likert5,3) neutral,4,True,recode,0
+a8135be1-f885-4b90-b9bd-42f2151ef2a7,prca14,likert5,3) neutral,1,True,recode,1
+a8135be1-f885-4b90-b9bd-42f2151ef2a7,prca15,likert5,3) neutral,4,True,recode,0
+a8135be1-f885-4b90-b9bd-42f2151ef2a7,prca16,likert5,2) disagree,1,True,recode,1
+a8135be1-f885-4b90-b9bd-42f2151ef2a7,prca17,likert5,2) disagree,3,True,recode,1
+a8135be1-f885-4b90-b9bd-42f2151ef2a7,prca18,likert5,3) neutral,4,True,recode,0
+ba4f5ffc-1e71-4ee9-b94a-324ce38737bd,prca01,likert5,3) neutral,4,True,recode,0
+ba4f5ffc-1e71-4ee9-b94a-324ce38737bd,prca02,likert5,2) disagree,1,True,recode,1
+ba4f5ffc-1e71-4ee9-b94a-324ce38737bd,prca03,likert5,3) neutral,4,True,recode,0
+ba4f5ffc-1e71-4ee9-b94a-324ce38737bd,prca04,likert5,4) agree,1,True,recode,1
+ba4f5ffc-1e71-4ee9-b94a-324ce38737bd,prca05,likert5,3) neutral,4,True,recode,0
+ba4f5ffc-1e71-4ee9-b94a-324ce38737bd,prca06,likert5,3) neutral,1,True,recode,1
+ba4f5ffc-1e71-4ee9-b94a-324ce38737bd,prca13,likert5,3) neutral,4,True,recode,0
+ba4f5ffc-1e71-4ee9-b94a-324ce38737bd,prca14,likert5,3) neutral,2,True,recode,1
+ba4f5ffc-1e71-4ee9-b94a-324ce38737bd,prca15,likert5,2) disagree,4,True,recode,0
+ba4f5ffc-1e71-4ee9-b94a-324ce38737bd,prca16,likert5,3) neutral,1,True,recode,1
+ba4f5ffc-1e71-4ee9-b94a-324ce38737bd,prca17,likert5,3) neutral,1,True,recode,1
+ba4f5ffc-1e71-4ee9-b94a-324ce38737bd,prca18,likert5,3) neutral,4,True,recode,0
+e6df4eb8-97d1-4148-82e2-ba3ccceec17d,prca01,likert5,3) neutral,4,True,recode,0
+e6df4eb8-97d1-4148-82e2-ba3ccceec17d,prca02,likert5,4) agree,1,True,recode,1
+e6df4eb8-97d1-4148-82e2-ba3ccceec17d,prca03,likert5,3) neutral,4,True,recode,0
+e6df4eb8-97d1-4148-82e2-ba3ccceec17d,prca04,likert5,4) agree,2,True,recode,1
+e6df4eb8-97d1-4148-82e2-ba3ccceec17d,prca05,likert5,3) neutral,4,True,recode,0
+e6df4eb8-97d1-4148-82e2-ba3ccceec17d,prca06,likert5,3) neutral,2,True,recode,1
+e6df4eb8-97d1-4148-82e2-ba3ccceec17d,prca13,likert5,2) disagree,4,True,recode,0
+e6df4eb8-97d1-4148-82e2-ba3ccceec17d,prca14,likert5,2) disagree,2,True,recode,1
+e6df4eb8-97d1-4148-82e2-ba3ccceec17d,prca15,likert5,3) neutral,4,True,recode,0
+e6df4eb8-97d1-4148-82e2-ba3ccceec17d,prca16,likert5,4) agree,3,True,recode,1
+e6df4eb8-97d1-4148-82e2-ba3ccceec17d,prca17,likert5,2) disagree,2,True,recode,1
+e6df4eb8-97d1-4148-82e2-ba3ccceec17d,prca18,likert5,1) strongly disagree,4,True,recode,0
+be9e6dc6-572a-4d68-9b30-39fd09d9670f,prca01,likert5,2) disagree,5,True,recode,0
+be9e6dc6-572a-4d68-9b30-39fd09d9670f,prca02,likert5,2) disagree,2,True,recode,1
+be9e6dc6-572a-4d68-9b30-39fd09d9670f,prca03,likert5,2) disagree,4,True,recode,0
+be9e6dc6-572a-4d68-9b30-39fd09d9670f,prca04,likert5,3) neutral,2,True,recode,1
+be9e6dc6-572a-4d68-9b30-39fd09d9670f,prca05,likert5,3) neutral,4,True,recode,0
+be9e6dc6-572a-4d68-9b30-39fd09d9670f,prca06,likert5,3) neutral,2,True,recode,1
+be9e6dc6-572a-4d68-9b30-39fd09d9670f,prca13,likert5,3) neutral,5,True,recode,0
+be9e6dc6-572a-4d68-9b30-39fd09d9670f,prca14,likert5,3) neutral,2,True,recode,1
+be9e6dc6-572a-4d68-9b30-39fd09d9670f,prca15,likert5,4) agree,5,True,recode,0
+be9e6dc6-572a-4d68-9b30-39fd09d9670f,prca16,likert5,3) neutral,1,True,recode,1
+be9e6dc6-572a-4d68-9b30-39fd09d9670f,prca17,likert5,3) neutral,2,True,recode,1
+be9e6dc6-572a-4d68-9b30-39fd09d9670f,prca18,likert5,1) strongly disagree,4,True,recode,0
+ca8eb892-fcc3-4f68-904e-fd023da50e03,prca01,likert5,3) neutral,4,True,recode,0
+ca8eb892-fcc3-4f68-904e-fd023da50e03,prca02,likert5,3) neutral,1,True,recode,1
+ca8eb892-fcc3-4f68-904e-fd023da50e03,prca03,likert5,3) neutral,4,True,recode,0
+ca8eb892-fcc3-4f68-904e-fd023da50e03,prca04,likert5,3) neutral,1,True,recode,1
+ca8eb892-fcc3-4f68-904e-fd023da50e03,prca05,likert5,3) neutral,4,True,recode,0
+ca8eb892-fcc3-4f68-904e-fd023da50e03,prca06,likert5,1) strongly disagree,1,True,recode,1
+ca8eb892-fcc3-4f68-904e-fd023da50e03,prca13,likert5,4) agree,4,True,recode,0
+ca8eb892-fcc3-4f68-904e-fd023da50e03,prca14,likert5,2) disagree,1,True,recode,1
+ca8eb892-fcc3-4f68-904e-fd023da50e03,prca15,likert5,3) neutral,4,True,recode,0
+ca8eb892-fcc3-4f68-904e-fd023da50e03,prca16,likert5,3) neutral,2,True,recode,1
+ca8eb892-fcc3-4f68-904e-fd023da50e03,prca17,likert5,3) neutral,2,True,recode,1
+ca8eb892-fcc3-4f68-904e-fd023da50e03,prca18,likert5,3) neutral,4,True,recode,0
+f7b63ead-56fb-4e03-bf5d-a93bf30d4097,prca01,likert5,3) neutral,4,True,recode,0
+f7b63ead-56fb-4e03-bf5d-a93bf30d4097,prca02,likert5,1) strongly disagree,1,True,recode,1
+f7b63ead-56fb-4e03-bf5d-a93bf30d4097,prca03,likert5,3) neutral,4,True,recode,0
+f7b63ead-56fb-4e03-bf5d-a93bf30d4097,prca04,likert5,3) neutral,1,True,recode,1
+f7b63ead-56fb-4e03-bf5d-a93bf30d4097,prca05,likert5,3) neutral,4,True,recode,0
+f7b63ead-56fb-4e03-bf5d-a93bf30d4097,prca06,likert5,3) neutral,2,True,recode,1
+f7b63ead-56fb-4e03-bf5d-a93bf30d4097,prca13,likert5,3) neutral,5,True,recode,0
+f7b63ead-56fb-4e03-bf5d-a93bf30d4097,prca14,likert5,3) neutral,2,True,recode,1
+f7b63ead-56fb-4e03-bf5d-a93bf30d4097,prca15,likert5,3) neutral,4,True,recode,0
+f7b63ead-56fb-4e03-bf5d-a93bf30d4097,prca16,likert5,1) strongly disagree,1,True,recode,1
+f7b63ead-56fb-4e03-bf5d-a93bf30d4097,prca17,likert5,3) neutral,2,True,recode,1
+f7b63ead-56fb-4e03-bf5d-a93bf30d4097,prca18,likert5,3) neutral,5,True,recode,0
+9edd7d74-2b7a-4043-9500-9ffe431a109b,prca01,likert5,1) strongly disagree,5,True,recode,0
+9edd7d74-2b7a-4043-9500-9ffe431a109b,prca02,likert5,1) strongly disagree,2,True,recode,1
+9edd7d74-2b7a-4043-9500-9ffe431a109b,prca03,likert5,3) neutral,5,True,recode,0
+9edd7d74-2b7a-4043-9500-9ffe431a109b,prca04,likert5,4) agree,2,True,recode,1
+9edd7d74-2b7a-4043-9500-9ffe431a109b,prca05,likert5,3) neutral,4,True,recode,0
+9edd7d74-2b7a-4043-9500-9ffe431a109b,prca06,likert5,3) neutral,2,True,recode,1
+9edd7d74-2b7a-4043-9500-9ffe431a109b,prca13,likert5,3) neutral,4,True,recode,0
+9edd7d74-2b7a-4043-9500-9ffe431a109b,prca14,likert5,3) neutral,2,True,recode,1
+9edd7d74-2b7a-4043-9500-9ffe431a109b,prca15,likert5,3) neutral,4,True,recode,0
+9edd7d74-2b7a-4043-9500-9ffe431a109b,prca16,likert5,1) strongly disagree,2,True,recode,1
+9edd7d74-2b7a-4043-9500-9ffe431a109b,prca17,likert5,4) agree,2,True,recode,1
+9edd7d74-2b7a-4043-9500-9ffe431a109b,prca18,likert5,3) neutral,4,True,recode,0
+e698a3db-93c3-4ad6-a519-8f04d2132f63,prca01,likert5,3) neutral,3,True,recode,0
+e698a3db-93c3-4ad6-a519-8f04d2132f63,prca02,likert5,2) disagree,2,True,recode,1
+e698a3db-93c3-4ad6-a519-8f04d2132f63,prca03,likert5,3) neutral,4,True,recode,0
+e698a3db-93c3-4ad6-a519-8f04d2132f63,prca04,likert5,2) disagree,1,True,recode,1
+e698a3db-93c3-4ad6-a519-8f04d2132f63,prca05,likert5,3) neutral,4,True,recode,0
+e698a3db-93c3-4ad6-a519-8f04d2132f63,prca06,likert5,3) neutral,2,True,recode,1
+e698a3db-93c3-4ad6-a519-8f04d2132f63,prca13,likert5,3) neutral,5,True,recode,0
+e698a3db-93c3-4ad6-a519-8f04d2132f63,prca14,likert5,3) neutral,2,True,recode,1
+e698a3db-93c3-4ad6-a519-8f04d2132f63,prca15,likert5,3) neutral,5,True,recode,0
+e698a3db-93c3-4ad6-a519-8f04d2132f63,prca16,likert5,3) neutral,1,True,recode,1
+e698a3db-93c3-4ad6-a519-8f04d2132f63,prca17,likert5,3) neutral,2,True,recode,1
+e698a3db-93c3-4ad6-a519-8f04d2132f63,prca18,likert5,1) strongly disagree,5,True,recode,0
+452f8d54-d254-4e4c-a8dd-d1d4bf4a6062,prca01,likert5,3) neutral,4,True,recode,0
+452f8d54-d254-4e4c-a8dd-d1d4bf4a6062,prca02,likert5,3) neutral,2,True,recode,1
+452f8d54-d254-4e4c-a8dd-d1d4bf4a6062,prca03,likert5,2) disagree,5,True,recode,0
+452f8d54-d254-4e4c-a8dd-d1d4bf4a6062,prca04,likert5,3) neutral,2,True,recode,1
+452f8d54-d254-4e4c-a8dd-d1d4bf4a6062,prca05,likert5,3) neutral,4,True,recode,0
+452f8d54-d254-4e4c-a8dd-d1d4bf4a6062,prca06,likert5,3) neutral,2,True,recode,1
+452f8d54-d254-4e4c-a8dd-d1d4bf4a6062,prca13,likert5,2) disagree,4,True,recode,0
+452f8d54-d254-4e4c-a8dd-d1d4bf4a6062,prca14,likert5,3) neutral,2,True,recode,1
+452f8d54-d254-4e4c-a8dd-d1d4bf4a6062,prca15,likert5,4) agree,4,True,recode,0
+452f8d54-d254-4e4c-a8dd-d1d4bf4a6062,prca16,likert5,2) disagree,2,True,recode,1
+452f8d54-d254-4e4c-a8dd-d1d4bf4a6062,prca17,likert5,3) neutral,2,True,recode,1
+452f8d54-d254-4e4c-a8dd-d1d4bf4a6062,prca18,likert5,3) neutral,4,True,recode,0
+51f41add-1157-4f89-accc-1eecb00b67c6,prca01,likert5,1) strongly disagree,1,True,recode,0
+51f41add-1157-4f89-accc-1eecb00b67c6,prca02,likert5,2) disagree,2,True,recode,1
+51f41add-1157-4f89-accc-1eecb00b67c6,prca03,likert5,4) agree,5,True,recode,0
+51f41add-1157-4f89-accc-1eecb00b67c6,prca04,likert5,1) strongly disagree,1,True,recode,1
+51f41add-1157-4f89-accc-1eecb00b67c6,prca05,likert5,1) strongly disagree,5,True,recode,0
+51f41add-1157-4f89-accc-1eecb00b67c6,prca06,likert5,3) neutral,2,True,recode,1
+51f41add-1157-4f89-accc-1eecb00b67c6,prca13,likert5,4) agree,5,True,recode,0
+51f41add-1157-4f89-accc-1eecb00b67c6,prca14,likert5,2) disagree,2,True,recode,1
+51f41add-1157-4f89-accc-1eecb00b67c6,prca15,likert5,3) neutral,4,True,recode,0
+51f41add-1157-4f89-accc-1eecb00b67c6,prca16,likert5,3) neutral,2,True,recode,1
+51f41add-1157-4f89-accc-1eecb00b67c6,prca17,likert5,2) disagree,3,True,recode,1
+51f41add-1157-4f89-accc-1eecb00b67c6,prca18,likert5,2) disagree,4,True,recode,0
+04103f7b-3e01-4465-8a71-2a928dc3fa73,prca01,likert5,2) disagree,5,True,recode,0
+04103f7b-3e01-4465-8a71-2a928dc3fa73,prca02,likert5,4) agree,2,True,recode,1
+04103f7b-3e01-4465-8a71-2a928dc3fa73,prca03,likert5,3) neutral,4,True,recode,0
+04103f7b-3e01-4465-8a71-2a928dc3fa73,prca04,likert5,3) neutral,2,True,recode,1
+04103f7b-3e01-4465-8a71-2a928dc3fa73,prca05,likert5,1) strongly disagree,1,True,recode,0
+04103f7b-3e01-4465-8a71-2a928dc3fa73,prca06,likert5,3) neutral,1,True,recode,1
+04103f7b-3e01-4465-8a71-2a928dc3fa73,prca13,likert5,2) disagree,4,True,recode,0
+04103f7b-3e01-4465-8a71-2a928dc3fa73,prca14,likert5,2) disagree,3,True,recode,1
+04103f7b-3e01-4465-8a71-2a928dc3fa73,prca15,likert5,1) strongly disagree,5,True,recode,0
+04103f7b-3e01-4465-8a71-2a928dc3fa73,prca16,likert5,3) neutral,2,True,recode,1
+04103f7b-3e01-4465-8a71-2a928dc3fa73,prca17,likert5,3) neutral,2,True,recode,1
+04103f7b-3e01-4465-8a71-2a928dc3fa73,prca18,likert5,3) neutral,4,True,recode,0
+2699fef5-d941-4729-9dd8-104deebc7dba,prca01,likert5,1) strongly disagree,5,True,recode,0
+2699fef5-d941-4729-9dd8-104deebc7dba,prca02,likert5,3) neutral,2,True,recode,1
+2699fef5-d941-4729-9dd8-104deebc7dba,prca03,likert5,3) neutral,4,True,recode,0
+2699fef5-d941-4729-9dd8-104deebc7dba,prca04,likert5,4) agree,2,True,recode,1
+2699fef5-d941-4729-9dd8-104deebc7dba,prca05,likert5,1) strongly disagree,5,True,recode,0
+2699fef5-d941-4729-9dd8-104deebc7dba,prca06,likert5,3) neutral,1,True,recode,1
+2699fef5-d941-4729-9dd8-104deebc7dba,prca13,likert5,3) neutral,4,True,recode,0
+2699fef5-d941-4729-9dd8-104deebc7dba,prca14,likert5,2) disagree,2,True,recode,1
+2699fef5-d941-4729-9dd8-104deebc7dba,prca15,likert5,1) strongly disagree,5,True,recode,0
+2699fef5-d941-4729-9dd8-104deebc7dba,prca16,likert5,1) strongly disagree,1,True,recode,1
+2699fef5-d941-4729-9dd8-104deebc7dba,prca17,likert5,2) disagree,2,True,recode,1
+2699fef5-d941-4729-9dd8-104deebc7dba,prca18,likert5,2) disagree,3,True,recode,0
+6aa19f8c-b4e0-4d0e-b912-7b82fa3dd3dd,prca01,likert5,1) strongly disagree,4,True,recode,0
+6aa19f8c-b4e0-4d0e-b912-7b82fa3dd3dd,prca02,likert5,3) neutral,2,True,recode,1
+6aa19f8c-b4e0-4d0e-b912-7b82fa3dd3dd,prca03,likert5,2) disagree,4,True,recode,0
+6aa19f8c-b4e0-4d0e-b912-7b82fa3dd3dd,prca04,likert5,3) neutral,1,True,recode,1
+6aa19f8c-b4e0-4d0e-b912-7b82fa3dd3dd,prca05,likert5,3) neutral,4,True,recode,0
+6aa19f8c-b4e0-4d0e-b912-7b82fa3dd3dd,prca06,likert5,2) disagree,1,True,recode,1
+6aa19f8c-b4e0-4d0e-b912-7b82fa3dd3dd,prca13,likert5,1) strongly disagree,5,True,recode,0
+6aa19f8c-b4e0-4d0e-b912-7b82fa3dd3dd,prca14,likert5,5) strongly agree,2,True,recode,1
+6aa19f8c-b4e0-4d0e-b912-7b82fa3dd3dd,prca15,likert5,2) disagree,3,True,recode,0
+6aa19f8c-b4e0-4d0e-b912-7b82fa3dd3dd,prca16,likert5,4) agree,2,True,recode,1
+6aa19f8c-b4e0-4d0e-b912-7b82fa3dd3dd,prca17,likert5,3) neutral,2,True,recode,1
+6aa19f8c-b4e0-4d0e-b912-7b82fa3dd3dd,prca18,likert5,1) strongly disagree,4,True,recode,0
+9a3c152d-1a1a-43fc-8ba0-ace5b9eb71a2,prca01,likert5,4) agree,4,True,recode,0
+9a3c152d-1a1a-43fc-8ba0-ace5b9eb71a2,prca02,likert5,2) disagree,1,True,recode,1
+9a3c152d-1a1a-43fc-8ba0-ace5b9eb71a2,prca03,likert5,4) agree,4,True,recode,0
+9a3c152d-1a1a-43fc-8ba0-ace5b9eb71a2,prca04,likert5,5) strongly agree,2,True,recode,1
+9a3c152d-1a1a-43fc-8ba0-ace5b9eb71a2,prca05,likert5,1) strongly disagree,5,True,recode,0
+9a3c152d-1a1a-43fc-8ba0-ace5b9eb71a2,prca06,likert5,3) neutral,2,True,recode,1
+9a3c152d-1a1a-43fc-8ba0-ace5b9eb71a2,prca13,likert5,3) neutral,4,True,recode,0
+9a3c152d-1a1a-43fc-8ba0-ace5b9eb71a2,prca14,likert5,5) strongly agree,3,True,recode,1
+9a3c152d-1a1a-43fc-8ba0-ace5b9eb71a2,prca15,likert5,1) strongly disagree,4,True,recode,0
+9a3c152d-1a1a-43fc-8ba0-ace5b9eb71a2,prca16,likert5,2) disagree,1,True,recode,1
+9a3c152d-1a1a-43fc-8ba0-ace5b9eb71a2,prca17,likert5,5) strongly agree,4,True,recode,1
+9a3c152d-1a1a-43fc-8ba0-ace5b9eb71a2,prca18,likert5,3) neutral,3,True,recode,0
+9a3afee5-4e3d-442b-8b59-b39c4093b8d9,prca01,likert5,3) neutral,4,True,recode,0
+9a3afee5-4e3d-442b-8b59-b39c4093b8d9,prca02,likert5,3) neutral,1,True,recode,1
+9a3afee5-4e3d-442b-8b59-b39c4093b8d9,prca03,likert5,3) neutral,4,True,recode,0
+9a3afee5-4e3d-442b-8b59-b39c4093b8d9,prca04,likert5,2) disagree,1,True,recode,1
+9a3afee5-4e3d-442b-8b59-b39c4093b8d9,prca05,likert5,2) disagree,4,True,recode,0
+9a3afee5-4e3d-442b-8b59-b39c4093b8d9,prca06,likert5,3) neutral,2,True,recode,1
+9a3afee5-4e3d-442b-8b59-b39c4093b8d9,prca13,likert5,3) neutral,5,True,recode,0
+9a3afee5-4e3d-442b-8b59-b39c4093b8d9,prca14,likert5,4) agree,2,True,recode,1
+9a3afee5-4e3d-442b-8b59-b39c4093b8d9,prca15,likert5,1) strongly disagree,5,True,recode,0
+9a3afee5-4e3d-442b-8b59-b39c4093b8d9,prca16,likert5,1) strongly disagree,1,True,recode,1
+9a3afee5-4e3d-442b-8b59-b39c4093b8d9,prca17,likert5,3) neutral,2,True,recode,1
+9a3afee5-4e3d-442b-8b59-b39c4093b8d9,prca18,likert5,3) neutral,4,True,recode,0
+38ff3aaf-b5e2-449d-8291-ae66ec52295e,prca01,likert5,4) agree,5,True,recode,0
+38ff3aaf-b5e2-449d-8291-ae66ec52295e,prca02,likert5,4) agree,2,True,recode,1
+38ff3aaf-b5e2-449d-8291-ae66ec52295e,prca03,likert5,1) strongly disagree,5,True,recode,0
+38ff3aaf-b5e2-449d-8291-ae66ec52295e,prca04,likert5,2) disagree,1,True,recode,1
+38ff3aaf-b5e2-449d-8291-ae66ec52295e,prca05,likert5,3) neutral,4,True,recode,0
+38ff3aaf-b5e2-449d-8291-ae66ec52295e,prca06,likert5,3) neutral,2,True,recode,1
+38ff3aaf-b5e2-449d-8291-ae66ec52295e,prca13,likert5,3) neutral,4,True,recode,0
+38ff3aaf-b5e2-449d-8291-ae66ec52295e,prca14,likert5,2) disagree,1,True,recode,1
+38ff3aaf-b5e2-449d-8291-ae66ec52295e,prca15,likert5,2) disagree,5,True,recode,0
+38ff3aaf-b5e2-449d-8291-ae66ec52295e,prca16,likert5,3) neutral,2,True,recode,1
+38ff3aaf-b5e2-449d-8291-ae66ec52295e,prca17,likert5,3) neutral,2,True,recode,1
+38ff3aaf-b5e2-449d-8291-ae66ec52295e,prca18,likert5,1) strongly disagree,5,True,recode,0
+26465d63-289f-4786-8292-c9595be82439,prca01,likert5,1) strongly disagree,5,True,recode,0
+26465d63-289f-4786-8292-c9595be82439,prca02,likert5,2) disagree,2,True,recode,1
+26465d63-289f-4786-8292-c9595be82439,prca03,likert5,3) neutral,4,True,recode,0
+26465d63-289f-4786-8292-c9595be82439,prca04,likert5,3) neutral,1,True,recode,1
+26465d63-289f-4786-8292-c9595be82439,prca05,likert5,3) neutral,4,True,recode,0
+26465d63-289f-4786-8292-c9595be82439,prca06,likert5,3) neutral,2,True,recode,1
+26465d63-289f-4786-8292-c9595be82439,prca13,likert5,3) neutral,5,True,recode,0
+26465d63-289f-4786-8292-c9595be82439,prca14,likert5,3) neutral,2,True,recode,1
+26465d63-289f-4786-8292-c9595be82439,prca15,likert5,3) neutral,4,True,recode,0
+26465d63-289f-4786-8292-c9595be82439,prca16,likert5,3) neutral,2,True,recode,1
+26465d63-289f-4786-8292-c9595be82439,prca17,likert5,3) neutral,2,True,recode,1
+26465d63-289f-4786-8292-c9595be82439,prca18,likert5,3) neutral,4,True,recode,0
